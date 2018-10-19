@@ -1,5 +1,4 @@
 import pandas as pd
-import json
 
 # Define your dataset path here
 DATA_PATH = './data/reviews_Cell_Phones_and_Accessories_5.json'
