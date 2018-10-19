@@ -1,6 +1,14 @@
 # Amazon Product Reviews Analysis
 Reviewing products on Cell Phones and Accessories category.
 
+## Data requirement
+Download the required dataset [here](http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Cell_Phones_and_Accessories_5.json.gz).
+
+Put the dataset in the following path
+```
+<project-root>/data/
+```
+
 ## Getting Started
 1. Clone the repo
    ```
