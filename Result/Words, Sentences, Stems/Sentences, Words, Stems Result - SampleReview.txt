@@ -1,0 +1,109 @@
+>>> 
+========= RESTART: D:\Isolated Box\Sentences & Words Segmentation.py =========
+
+Warning (from warnings module):
+  File "C:\Program Files\Python36\lib\site-packages\sklearn\externals\joblib\externals\cloudpickle\cloudpickle.py", line 47
+    import imp
+DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+File Path : D:\Isolated Box\SampleReview.json
+
+WORDS
+Min : 7
+Max : 327
+SENTS
+Min : 1
+Max : 10
+STEMS
+Min : 7
+Max : 327
+
+#####
+Sentence 1:
+It worked great for the first couple of weeks then it just stopped completely.. so basically a small waste of money.
+
+Segmented:
+1 :
+ It worked great for the first couple of weeks then it just stopped completely.. so basically a small waste of money.
+#####
+#####
+Sentence 2:
+I could only give this USB car charger 2 stars because although it worked fine for about 3 months, it subsequently died on me.Pros:-Has 2 USB ports for charging, one (the top) is 2.1 amps.  The bottom slot is lower, presumably 1 or 1.5 amps.-Fits well in my charging socket - holds tight.  I've had some that were loose in my charging socket.-Works well to charge my iPhone in the top slot and the bottom slot works with most Android phones, except the very high end ones.-Has a blue LED light to tell you it is on and ready to charge.-The USB sockets seem to be well made and tightly fit all my cables.-Pretty solid construction.-It cost less than $2.Cons:-It died on me after 3 months.I had really enjoyed using this USB charger.  It rapidly charged my iPhone and worked well with charging the phones of my family and friends.  The two slot design makes this design very handy; with a 1 slot design, no one else can charge their device unless I remove my cord.  Of course, after this charger died, I had to go back to the 1 slot design I was using before.After 3 months, I began to notice the LED light flickering.  It was less than a week later that is quit working permanently.  I'm not sure what the problem was - faulty wiring, bad design, I guess I'll never know.  I thought about getting another since they are so cheap, but then I thought better of it.  Maybe they are so cheap because they are simply disposable after a short period of time.For whatever reason, it died and I was forced to look for another 2 slot design - I haven't found one in my price range yet.
+
+Segmented:
+1 :
+ I could only give this USB car charger 2 stars because although it worked fine for about 3 months, it subsequently died on me.Pros:-Has 2 USB ports for charging, one (the top) is 2.1 amps.
+2 :
+ The bottom slot is lower, presumably 1 or 1.5 amps.-Fits well in my charging socket - holds tight.
+3 :
+ I've had some that were loose in my charging socket.-Works well to charge my iPhone in the top slot and the bottom slot works with most Android phones, except the very high end ones.-Has a blue LED light to tell you it is on and ready to charge.-The USB sockets seem to be well made and tightly fit all my cables.-Pretty solid construction.-It cost less than $2.Cons:-It died on me after 3 months.I had really enjoyed using this USB charger.
+4 :
+ It rapidly charged my iPhone and worked well with charging the phones of my family and friends.
+5 :
+ The two slot design makes this design very handy; with a 1 slot design, no one else can charge their device unless I remove my cord.
+6 :
+ Of course, after this charger died, I had to go back to the 1 slot design I was using before.After 3 months, I began to notice the LED light flickering.
+7 :
+ It was less than a week later that is quit working permanently.
+8 :
+ I'm not sure what the problem was - faulty wiring, bad design, I guess I'll never know.
+9 :
+ I thought about getting another since they are so cheap, but then I thought better of it.
+10 :
+ Maybe they are so cheap because they are simply disposable after a short period of time.For whatever reason, it died and I was forced to look for another 2 slot design - I haven't found one in my price range yet.
+#####
+#####
+Sentence 3:
+After a week only one side works
+
+Segmented:
+1 :
+ After a week only one side works
+#####
+#####
+Sentence 4:
+I could only give this USB car charger 2 stars because although it worked fine for about 3 months, it subsequently died on me.Pros:-Has 2 USB ports for charging, one (the top) is 2.1 amps.  The bottom slot is lower, presumably 1 or 1.5 amps.-Fits well in my charging socket - holds tight.  I've had some that were loose in my charging socket.-Works well to charge my iPhone in the top slot and the bottom slot works with most Android phones, except the very high end ones.-Has a blue LED light to tell you it is on and ready to charge.-The USB sockets seem to be well made and tightly fit all my cables.-Pretty solid construction.-It cost less than $2.Cons:-It died on me after 3 months.I had really enjoyed using this USB charger.  It rapidly charged my iPhone and worked well with charging the phones of my family and friends.  The two slot design makes this design very handy; with a 1 slot design, no one else can charge their device unless I remove my cord.  Of course, after this charger died, I had to go back to the 1 slot design I was using before.After 3 months, I began to notice the LED light flickering.  It was less than a week later that is quit working permanently.  I'm not sure what the problem was - faulty wiring, bad design, I guess I'll never know.  I thought about getting another since they are so cheap, but then I thought better of it.  Maybe they are so cheap because they are simply disposable after a short period of time.For whatever reason, it died and I was forced to look for another 2 slot design - I haven't found one in my price range yet.
+
+Segmented:
+1 :
+ I could only give this USB car charger 2 stars because although it worked fine for about 3 months, it subsequently died on me.Pros:-Has 2 USB ports for charging, one (the top) is 2.1 amps.
+2 :
+ The bottom slot is lower, presumably 1 or 1.5 amps.-Fits well in my charging socket - holds tight.
+3 :
+ I've had some that were loose in my charging socket.-Works well to charge my iPhone in the top slot and the bottom slot works with most Android phones, except the very high end ones.-Has a blue LED light to tell you it is on and ready to charge.-The USB sockets seem to be well made and tightly fit all my cables.-Pretty solid construction.-It cost less than $2.Cons:-It died on me after 3 months.I had really enjoyed using this USB charger.
+4 :
+ It rapidly charged my iPhone and worked well with charging the phones of my family and friends.
+5 :
+ The two slot design makes this design very handy; with a 1 slot design, no one else can charge their device unless I remove my cord.
+6 :
+ Of course, after this charger died, I had to go back to the 1 slot design I was using before.After 3 months, I began to notice the LED light flickering.
+7 :
+ It was less than a week later that is quit working permanently.
+8 :
+ I'm not sure what the problem was - faulty wiring, bad design, I guess I'll never know.
+9 :
+ I thought about getting another since they are so cheap, but then I thought better of it.
+10 :
+ Maybe they are so cheap because they are simply disposable after a short period of time.For whatever reason, it died and I was forced to look for another 2 slot design - I haven't found one in my price range yet.
+#####
+#####
+Sentence 5:
+It came at last, good looking and the price was good and i believe it is worth the time I waited for it to come to me good job
+
+Segmented:
+1 :
+ It came at last, good looking and the price was good and i believe it is worth the time I waited for it to come to me good job
+#####
+False
+
+##### WORDS #####
+Top 20 words:
+('great', 23), ('one', 23), ('charge', 20), ('phone', 19), ("n't", 17), ('case', 15), ('works', 15), ('like', 12), ('charging', 12), ('well', 11), ('two', 11), ('battery', 10), ('car', 10), ('time', 9), ('2', 9), ('charger', 9), ("'s", 8), ('good', 8), ('love', 8), ('power', 7), 
+##### ##### #####
+
+##### STEMS #####
+Top 20 stems:
+('charg', 36), ('work', 29), ('one', 25), ('great', 23), ('phone', 23), ("n't", 17), ('case', 16), ('like', 12), ('use', 12), ('time', 12), ('charger', 12), ('becaus', 11), ('well', 11), ('batteri', 11), ('two', 11), ('love', 10), ('car', 10), ('veri', 9), ('power', 9), ('2', 9), 
+##### ##### #####
+
+##### STOPWORDS #####
+['i', 'me', 'my', 'myself', 'we', 'our', 'ours', 'ourselves', 'you', "you're", "you've", "you'll", "you'd", 'your', 'yours', 'yourself', 'yourselves', 'he', 'him', 'his', 'himself', 'she', "she's", 'her', 'hers', 'herself', 'it', "it's", 'its', 'itself', 'they', 'them', 'their', 'theirs', 'themselves', 'what', 'which', 'who', 'whom', 'this', 'that', "that'll", 'these', 'those', 'am', 'is', 'are', 'was', 'were', 'be', 'been', 'being', 'have', 'has', 'had', 'having', 'do', 'does', 'did', 'doing', 'a', 'an', 'the', 'and', 'but', 'if', 'or', 'because', 'as', 'until', 'while', 'of', 'at', 'by', 'for', 'with', 'about', 'against', 'between', 'into', 'through', 'during', 'before', 'after', 'above', 'below', 'to', 'from', 'up', 'down', 'in', 'out', 'on', 'off', 'over', 'under', 'again', 'further', 'then', 'once', 'here', 'there', 'when', 'where', 'why', 'how', 'all', 'any', 'both', 'each', 'few', 'more', 'most', 'other', 'some', 'such', 'no', 'nor', 'not', 'only', 'own', 'same', 'so', 'than', 'too', 'very', 's', 't', 'can', 'will', 'just', 'don', "don't", 'should', "should've", 'now', 'd', 'll', 'm', 'o', 're', 've', 'y', 'ain', 'aren', "aren't", 'couldn', "couldn't", 'didn', "didn't", 'doesn', "doesn't", 'hadn', "hadn't", 'hasn', "hasn't", 'haven', "haven't", 'isn', "isn't", 'ma', 'mightn', "mightn't", 'mustn', "mustn't", 'needn', "needn't", 'shan', "shan't", 'shouldn', "shouldn't", 'wasn', "wasn't", 'weren', "weren't", 'won', "won't", 'wouldn', "wouldn't", '!', '"', '#', '$', '%', '&', "'", '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', '\\', ']', '^', '_', '`', '{', '|', '}', '~']

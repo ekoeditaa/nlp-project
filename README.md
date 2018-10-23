@@ -1,0 +1,1 @@
+By default the SampleReview is used. Uncomment the CellPhoneReview to use the full data set. Make sure to change the folder path. When running the full data set, it will be very slow. Check Ref1, Ref2, Ref3 in ./Result/Words_Sents_Stems for CPU & Memory usage when running the script.
