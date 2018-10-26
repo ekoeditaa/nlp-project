@@ -5,8 +5,8 @@ import random
 
 ###################################### Specify the path to the json text
 file_folder = "D:\\Isolated Box\\"
-file_name   = "SampleReview.json"
-#file_name   = "CellPhoneReview.json"
+#file_name   = "SampleReview.json"
+file_name   = "CellPhoneReview.json"
 file_path   = os.path.join(file_folder, file_name)
 print("File Path : {}\n".format(file_path))
 
@@ -26,7 +26,7 @@ raw_json_length = len(raw_json)
 tot_sentences   = 5
 sentences       = []
 for i in range(tot_sentences):
-    index = random.randint(0, tot_sentences-1)
+    index = random.randint(0, raw_json_length-1)
     sentences.append(raw_json[index][key_review])
 sentences_pos   = [nltk.pos_tag(nltk.word_tokenize(sent)) for sent in sentences]
 
