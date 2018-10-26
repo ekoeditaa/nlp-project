@@ -1,0 +1,66 @@
+>>> 
+============= RESTART: D:/Isolated Box/Noun Phrase Summarizer.py =============
+
+Warning (from warnings module):
+  File "C:\Program Files\Python36\lib\site-packages\sklearn\externals\joblib\externals\cloudpickle\cloudpickle.py", line 47
+    import imp
+DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+File Path : D:\Isolated Box\SampleReview.json
+
+
+######################################     Detect NPs from the review texts    ######################################
+Top 20 NPs:
+[('phone', 14), ('case', 6), ('the car', 6), ('the case', 5), ('usb', 5), ('iphone', 5), ('the phone', 4), ('great', 4), ('%', 4), ('time', 4), ('powerbear', 4), ('power', 4), ('charger', 4), ('slot', 4), ('design', 4), ('the price', 3), ('battery', 3), ('the battery', 3), ('charge', 3), ('side', 3)]
+
+############################### Detect 10 representative NPs from 3 popular products ################################
+Top 3 products:
+6073894996    33
+3998899561    10
+120401325X     6
+Name: asin, dtype: int64
+
+#####
+6073894996 representative NP:
+[('the car', 6), ('phone', 5), ('usb', 5), ('iphone', 5), ('charger', 4), ('slot', 4), ('design', 4), ('charge', 3), ('side', 3), ('light', 3)]
+#####
+#####
+3998899561 representative NP:
+[('phone', 8), ('case', 6), ('the case', 5), ('powerbear', 4), ('%', 2), ('battery', 2), ('this case', 2), ('galaxy s4', 2), ('s4', 2), ('the battery', 2)]
+#####
+#####
+120401325X representative NP:
+[('the review', 1), ('the phone', 1), ('share', 1), ('sister', 1), ('phone', 1), ('look', 1), ('a year', 1), ('believe', 1), ('year', 1), ('great', 1)]
+#####
+
+###################################### Detect NPs from randomly 5 review texts ######################################
+#####
+Sentence 1:
+I could only give this USB car charger 2 stars because although it worked fine for about 3 months, it subsequently died on me.Pros:-Has 2 USB ports for charging, one (the top) is 2.1 amps.  The bottom slot is lower, presumably 1 or 1.5 amps.-Fits well in my charging socket - holds tight.  I've had some that were loose in my charging socket.-Works well to charge my iPhone in the top slot and the bottom slot works with most Android phones, except the very high end ones.-Has a blue LED light to tell you it is on and ready to charge.-The USB sockets seem to be well made and tightly fit all my cables.-Pretty solid construction.-It cost less than $2.Cons:-It died on me after 3 months.I had really enjoyed using this USB charger.  It rapidly charged my iPhone and worked well with charging the phones of my family and friends.  The two slot design makes this design very handy; with a 1 slot design, no one else can charge their device unless I remove my cord.  Of course, after this charger died, I had to go back to the 1 slot design I was using before.After 3 months, I began to notice the LED light flickering.  It was less than a week later that is quit working permanently.  I'm not sure what the problem was - faulty wiring, bad design, I guess I'll never know.  I thought about getting another since they are so cheap, but then I thought better of it.  Maybe they are so cheap because they are simply disposable after a short period of time.For whatever reason, it died and I was forced to look for another 2 slot design - I haven't found one in my price range yet.
+NPs:
+['usb', 'car', 'charger', 'usb', 'the top', 'the bottom slot', 'socket', 'iphone', 'the top slot', 'the bottom slot', 'android', 'high end', 'ones.-has', 'a blue', 'led', 'light', 'usb', 'cables.-pretty solid construction.-it', 'cost', '-it', 'months.i', 'usb', 'charger', 'iphone', 'family', 'slot', 'design', 'slot', 'design', 'no one', 'device', 'cord', 'course', 'this charger', 'slot', 'design', 'led', 'light', 'a week', 'the problem', 'faulty', 'wiring', 'bad design', 'a short period', 'time.for', 'reason', 'slot', 'design', 'price', 'range']
+#####
+#####
+Sentence 2:
+This portable USB Port car charger is a must have for people on the go.  Pair this with an extra or spare cord and you are good to go!
+NPs:
+['usb port', 'car', 'charger', 'the go', 'pair', 'spare cord']
+#####
+#####
+Sentence 3:
+Performs exactly as advertised . It's very  sturdily built,and provides lots of boost . It does exactly what it's supposed too .Easy to insert phone in and out . Definitely a 5 star experience. Don't know what I would do without this case LOVE LOVE LOVE it.
+NPs:
+['boost', 'phone', 'star', 'experience', 'this case', 'love love love']
+#####
+#####
+Sentence 4:
+They are nothing special for sure, but it's nice that you can tell when it is powered up by the led that glows in it.  able to charge two phones at once in the car which is nice.
+NPs:
+['nothing', 'the car']
+#####
+#####
+Sentence 5:
+This is the first battery case I have had for my Galaxy S4. The S4 fits very well, is slim and doesn't add much weight to the Galaxy S4. It doubles the battery life. You can charge either the battery, the phone or both. There is a handy on-off switch with leds to indicate the level of charge.The battery case came on time and was packaged well. Well worth the price.
+NPs:
+['the first battery', 'case', 'galaxy s4', 's4', 'much weight', 'galaxy s4', 'the battery', 'life', 'the battery', 'the phone', 'a handy on-off switch', 'the level', 'charge.the battery', 'case', 'time', 'the price']
+#####
+>>> 

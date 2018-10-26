@@ -1,0 +1,68 @@
+Python 3.6.3 (v3.6.3:2c5fed8, Oct  3 2017, 18:11:49) [MSC v.1900 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+============= RESTART: D:/Isolated Box/Noun Phrase Summarizer.py =============
+
+Warning (from warnings module):
+  File "C:\Program Files\Python36\lib\site-packages\sklearn\externals\joblib\externals\cloudpickle\cloudpickle.py", line 47
+    import imp
+DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+File Path : D:\Isolated Box\CellPhoneReview.json
+
+
+######################################     Detect NPs from the review texts    ######################################
+Top 20 NPs:
+[('phone', 83087), ('the phone', 61392), ('the case', 38304), ('case', 37313), ('this case', 33750), ('iphone', 26010), ('the screen', 21010), ('usb', 19151), ('battery', 18995), ('charger', 16328), ('i', 15769), ('protector', 15356), ('screen', 15105), ('the battery', 15031), ('the price', 15007), ('%', 13666), ('this product', 13637), ('a lot', 12904), ('time', 12099), ('cable', 11732)]
+
+############################### Detect 10 representative NPs from 3 popular products ################################
+Top 3 products:
+B005SUHPO6    836
+B0042FV2SI    690
+B008OHNZI0    657
+Name: asin, dtype: int64
+
+#####
+B005SUHPO6 representative NP:
+[('phone', 460), ('this case', 281), ('the phone', 280), ('the case', 271), ('case', 268), ('otterbox', 247), ('iphone', 232), ('the rubber', 95), ('protection', 88), ('protector', 88)]
+#####
+#####
+B0042FV2SI representative NP:
+[('phone', 183), ('the screen', 135), ('protector', 135), ('screen', 117), ('iphone', 73), ('i', 69), ('the phone', 64), ('finish', 45), ('the matte', 44), ('this product', 41)]
+#####
+#####
+B008OHNZI0 representative NP:
+[('the screen', 319), ('protector', 271), ('screen', 249), ('iphone', 141), ('phone', 131), ('tech armor', 128), ('the phone', 96), ('the protector', 77), ('this product', 63), ('dust', 59)]
+#####
+
+###################################### Detect NPs from randomly 5 review texts ######################################
+#####
+Sentence 1:
+I bought this as a gift for a 4S owner. The case stays on and seems to protect the phone adequately, but the plastic and rubber don't align properly on the sides. I believe I got a bad product as I've seen how the case is supposed to fit on another friend's iPhone. My friend is happy with the case and has decided to live with it as is, though I would have returned mine for a replacement if it were up to me.
+NPs:
+['a gift', 'owner', 'the case', 'the phone', 'the plastic', 'a bad product', 'the case', 'another friend', 'iphone', 'friend', 'the case', 'mine', 'a replacement']
+#####
+#####
+Sentence 2:
+Good protection, the clear spots are fingerprint magnets and scratch easily. However, perhaps most disappointing, is the fact that it's not a perfect fit. There are spaces on both sides. that sucks.
+NPs:
+['good protection', 'the fact', 'a perfect fit']
+#####
+#####
+Sentence 3:
+The basic product is fine, pretty even, but it a pain in the butt to pry the iPhone 4 out of the case. Docking stations created to accommodate cases won't work. I needed a butter knife or other sharp object to pop the phone out. Every time I did the case got more scratches, more dinged up and less appealing. Also if you want this as a present or needed in a specific time frame order way way in advance. Shipping takes a while if you don't have Prime.
+NPs:
+['the basic product', 'a pain', 'the butt', 'the iphone', 'the case', 'a butter', 'knife', 'other sharp object', 'the phone', 'every time', 'the case', 'a specific time', 'frame order', 'way', 'way', 'advance', 'a while', 'prime']
+#####
+#####
+Sentence 4:
+I purchased this case in the Spring of 2013, and I love it. I keep my debit cards and ID or driver's license, depending on where I'm going, in the compartment. It eliminates the need to carry a bulky wallet around campus or for a quick trip to town.I have received compliments from friends, who thought it was a very neat design. In my opinion, the case is a nice, conservative design. It doesn't draw attention to the fact that it has a hinge and carries cards in the back.While it does add some thickness, I actually find it easier to hold my iPhone 5. So far I've dropped it many times, including today on our concrete pool deck (it almost took a dip in the pool). Today's drop on concrete resulted only in minor cosmetic damage to the case, but my iPhone was protected from any harm.Some people have expressed concern that the case does no protect the edge of the screen side of the bottom portion of the iPhone. This is true, but I haven't had an issue yet.My only gripe is that the case does scratch easily, and after continued removing and inserting of the phone into my pockets (and occasionally sliding it on a table) has caused the back of the case to have many swirling scratches. While it might not look as pretty as web I first received it, I don't find it a big issue.The verdict? If you want a case that looks nice, provides protection, and also has storage for a few credit cards, this is the case for you. If you want a case that doesn't lose it's brand-new-look and does not add bulk, then this might not be for you.
+NPs:
+['this case', 'the spring', 'debit', 'id', 'driver', 'license', 'the compartment', 'the need', 'a bulky wallet', 'campus', 'a quick trip', 'neat design', 'opinion', 'the case', 'conservative design', 'attention', 'the fact', 'a hinge', 'the back.while', 'some thickness', 'iphone', 'today', 'concrete pool', 'deck', 'a dip', 'the pool', 'today', 'drop', 'concrete', 'minor cosmetic damage', 'the case', 'iphone', 'concern', 'the case', 'the edge', 'the screen side', 'the bottom portion', 'the iphone', 'an issue', 'gripe', 'the case', 'removing', 'inserting', 'the phone', 'a table', 'the back', 'the case', 'web', 'a big issue.the', 'verdict', 'a case', 'protection', 'storage', 'a few credit', 'the case', 'a case', 'brand-new-look', 'bulk']
+#####
+#####
+Sentence 5:
+Great case to get. Very good, sleek, smooth. I can access all of the features with ease. Good to have
+NPs:
+['great', 'case', 'access', 'ease']
+#####
+>>> 
