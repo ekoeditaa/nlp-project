@@ -8,7 +8,7 @@ from np_detector import np_detector
 ###################################### Specify the path to the json text
 file_folder = "D:\\Isolated Box\\"
 file_name   = "SampleReview.json"
-file_name   = "CellPhoneReview.json"
+#file_name   = "CellPhoneReview.json"
 file_path   = os.path.join(file_folder, file_name)
 print("File Path : {}\n".format(file_path))
 

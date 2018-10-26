@@ -28,7 +28,7 @@ r"""
     _pandas      = None
 
     def __init__(self, df_texts, np_grammar=None, pandas=True):
-        self.review_texts = df_texts
+        self.review_texts    = df_texts
         self._pandas         = pandas
         self._cp             = nltk.RegexpParser(self._grammar) if np_grammar == None else nltk.RegexpParser(np_grammar)
         self.np_list         = self._list_nps()
