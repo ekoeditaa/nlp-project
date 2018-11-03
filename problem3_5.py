@@ -81,7 +81,7 @@ while 1:
 			coef = model.coef_.tolist()[0]
 			coeff_df = pd.DataFrame({'Word': word, 'Coefficient': coef})
 			coeff_df = coeff_df.sort_values(['Coefficient', 'Word'], ascending=[0,1])
-			print('\n######### Top {} Positive ###########'.format(n))
+			print('\n######### Top {} Negative ###########'.format(n))
 			print(coeff_df.tail(n).to_string(index=False))	
 		except:
 			print("Please train a model first!")
