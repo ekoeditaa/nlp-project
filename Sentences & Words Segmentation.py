@@ -136,7 +136,7 @@ for i in range(tot_sentences):
         even_i = False
     else:
         sentences.append(raw_json_sorted[index_last][key_review])
-        index_first += 1
+        index_last  -= 1
         even_i = True
 
 #### Segment the 5 sentences
