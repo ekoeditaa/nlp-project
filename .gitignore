@@ -113,3 +113,6 @@ dmypy.json
 # Project specifics
 .vscode
 data/
+
+# Misc
+.DS_Store
