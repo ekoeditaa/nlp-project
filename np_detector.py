@@ -17,7 +17,7 @@ class np_detector():
     # The NP chunk grammar.
     _grammar     = \
 r"""
-  NP: {<DT|PP\$>?<JJ>*<NN>}   # chunk determiner/possessive, adjectives and noun
+  NP: {<DT|PP\$>?<JJ>*<NN>+}   # chunk determiner/possessive, adjectives and noun
       {<NNP>+}                # chunk sequences of proper nouns
 """
 
