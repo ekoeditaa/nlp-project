@@ -1,7 +1,5 @@
-Python 3.6.3 (v3.6.3:2c5fed8, Oct  3 2017, 18:11:49) [MSC v.1900 64 bit (AMD64)] on win32
-Type "copyright", "credits" or "license()" for more information.
 >>> 
-========= RESTART: D:\Isolated Box\Sentences & Words Segmentation.py =========
+======== RESTART: D:\Repository\NLP\Sentences & Words Segmentation.py ========
 
 Warning (from warnings module):
   File "C:\Program Files\Python36\lib\site-packages\sklearn\externals\joblib\externals\cloudpickle\cloudpickle.py", line 47
@@ -21,9 +19,11 @@ Max : 6501
 
 #####
 Sentence 1:
-
+It worked great for the first couple of weeks then it just stopped completely.. so basically a small waste of money.
 
 Segmented:
+1 :
+ It worked great for the first couple of weeks then it just stopped completely.. so basically a small waste of money.
 #####
 #####
 Sentence 2:
@@ -557,558 +557,522 @@ Segmented:
 #####
 #####
 Sentence 3:
-
-
-Segmented:
-#####
-#####
-Sentence 4:
-_________________________________________A not-so-serious review first:Lumia 920 >>>>>>>>>>>>>>>>>>>>>>>>> iPHone 532GB ---------------------------------------------32GB$99------------------------------------------------$299Master Maps-------------------------------------Mess-up MapsOffline GPS---------------------------------------iLostPublic transit guide for global traveler ------iLonely and secretly flirt with SiriPureView Camera-------------------------------PurpleView CameraClear lowlight photos---------------------------My party photos are drunker(fuzzier) than yoursAnti-scratch--------------------------------------Full-ScratchSurvives a fall-----------------------------------The poor pretty thing!Gets the job done-------------------------------What job?Good for normal people-----------------------Good for Apple worshipersNokia: "Sorry, we will update"-----------------Apple: "You're holding it wrong!"Clear view under direct sunlight--------------Is my phone on?4.5" viewing asset-------------------------------Squint retinallyWireless charger--------------------------------Where is my this-year's-special cable?Touchscreen wearing gloves-----------------Cut a hole on gloveA more serious review follows:Having used the phone for a while now, I'd like to provide a more objective assessment. I give ratings below first, followed by detailed explanations.  The rating numbers are on a scale of 10.  A score of "10" means it is not only the best but also has no apparent need to improve, and a score less than "10" just means there is room to improve but does not necessarily mean another product is better. The numbers in the parentheses are for iPhone 5 as a reference.RATINGS-------------  Lumia 920 (vs. iPhone 5)Call Quality --------------------10 (8)  Uncompromising call quality from Nokia, a true phone companyInstant Messaging------------10 (10)  Big improvement over WP7; group messaging and MMSE-Mail-----------------------------9 (7) WP8 has the best enterprise-ready e-mail clientSkype and VoIP calls----------9 (7)  International VoIP calls a reality with on WP8Contact Management---------9 (6)  WP8's multi-contact aggregator and integrator the bestEntertainment-----------------10 (10)  Too much already, what more could you wantSocial Networking--------------9 (8)  Facebook integration is an edgeWeb browsing------------------9 (8)  IE10 is outstandingShopping------------------------7 (9)  Comes from Apple's apps edgeNavigation-----------------------8 (5)  Apple's first Maps is actually impressive, but see discussionsProductivity---------------------6 (3)  Not there yet, but at least WP8 can do some workScreen--------------------------10 (8) Lumia 920 has the best looking screen consumers have ever seenCamera--------------------------9 (7)  In its own leagueBuild quality-------------------10 (8) You might have trouble to say goodbye to Lumia 920 two years laterThermal performance---------8 (8)  CompetitiveBattery life----------------------5 (5)  All need improvement badly in this areaOS reliability--------------------9.9 (9.5)  WP8 never even freezes, much less crashesOS fluency----------------------9.5 (9)  Ice-skating with WP8, and floor dancing with iOS, I much prefer the formerOS flexibility/customization---8 (8)  Android is the kingOS refinement------------------7.5 (9.5)  Microsoft is still no Apple on refined detailsOS apps ecosystem-----------6 (9.5)  iOS rules for nowCurrent Fashion Index--------0 (11)To ease your reading, I'll put the conclusion first before the detailed sections.CONCLUSION:  Laying aside the nitpicking, I am in love with my Lumia. There are so many great phones today that it has become a problem to choose one. But the top WP8 phone is the choice by both my brain and my heart. If I were a bit geekier, I might have gone with Android; and if I didn't have to work I might have gone with iPhone. But this is my phone. It's for a practical man with a taste.  I hesitated when Lumia 800 came out, knowing that it would be incompatible with WP8. Now Lumia 920 is such an attractive package. I don't think I'll change my phone anytime soon, although I do hope that there would be some nice updates from both Microsoft and Nokia to make this phone even better.1. CALL QUALITYIt is a phone after all. The call quality of Lumia 920 is absolutely top-notch. The voice is so clear it puts my landline cordless phone to shame. Nokia knows how to make phones. They are the true phone company. The HAAC microphones (Rich Recording Mic) are not your ordinary microphones on cell phones. A different league. The speakerphone is pretty good too, quite loud and clear. In fact I once had a conference call using the speakerphone with several people on my side, and it worked out fine.2. E-MAILOverall, WP8 has the best mobile e-mail. Windows Phone has an inherent advantage in e-mail, especially work e-mails. Apple does not own a popular e-mail service, and can only support third-party e-mails. Android enjoys the excellent Gmail, but Gmail does not have a strong foothold in the workplace.WP8 has deep integration of Exchange, Office 365's Outlook e-mail, Hotmail and Live Mail on Windows Phone.  WP8 further has excellent integration with the popular Gmail and Yahoo Mail.  All this results in an e-mail client that is more capable and efficient than other platforms. To name a few, contact management, contact synchronization, message management, message synchronization, file management, attachment management, folder management, conversation thread management, and e-mail search, are significantly better on Windows Phone e-mail. The difference is far deeper than appearance.  If you handle e-mails with some degree of sophistication, you will appreciate the difference.I travel with both my iPad and Windows Phone. Unless I am using my computer, I usually reach out for the Windows Phone for e-mails instead of the iPad, despite the fact that the e-mails on iPad have so much better readability. This wasn't the case before when I used an iPhone. To just read a recent e-mail, the iPad is an obvious choice. But you don't just read a recent e-mail. Work e-mails have history and threads, and they need to be searchable, and fully synchronized with your computer, and that's where the Windows Phone shines.For example, if you just read or deleted an e-mail on you phone, you want the status to synchronize with the server and other devices, otherwise you end up paying attention to the same e-mail too many times or having to delete the same e-mail multiple times. For another example, if you need to search to find an older e-mail which is not stored on your phone (due to memory conservation, mobile devices do not download and keep a copy of every e-mail in the past), you want your mobile e-mail to give you an opportunity to search e-mails on the server. WP8 does these perfectly.I also like the fact that Windows Phone has a separate live tile with a customized icon for each e-mail account. I don't like the idea of mixing my work e-mail and personal e-mail in the same box, or even under the same icon. I need a clean definition of territories. Of course, if you intend to combine e-mails, you can do that as well on WP8. Flexibility.3. SKYPE AND NON-CELLULAR SERVICE DEPENDENT PHONE CALLSSkype, owned by Microsoft now, is an important function on WP. Microsoft also makes a Skype app for iOS, but the app is still not nearly as good as the integrated Skype on the Windows Phone.If you use Skype Pro and/or Skype Out, you can actually make phone calls anywhere in the world as long as you have Wi-Fi or cellular data connection. I'm not talking about Skype-to-Skype calls. I'm talking about calling real phone numbers. (This works only with Skype Pro; the free Skype account can only make online Skype calls). No cellular phone connection is required with Skype Pro on Windows Phone.Take an international trip you will understand what I'm saying. Being able to call home and work at international airports *without* a SIM card for the local service is a major convenience. Even if you already have got a local SIM card, using Skype Pro on Windows Phone to make calls on the 3G/4G data service is still a great convenience because it costs only two cents a minute, less than 1/20 of the cost for international calls made on a regular cell phone.  It also works other way around. You can make international calls from the US using Skype Pro on your Windows Phone for two cents a minute.Cheap international calls anywhere on your cell phone (and enjoying the integrated phone contacts) - I hope this concept registers with you.4. CONTACT MANAGEMENTThe People Hub on the Windows Phone deserves a separate mentioning. This is by and large the best contact management on a cell phone (WebOS users might have an issue with the statement). It automatically integrates all the contacts from different sources (e-mails, Skype and Facebook) and provides the best accessibility and connectivity on a mobile device.This significantly betters iOS, which has a pretty address book and good editing capabilities, but very little beyond that. When it comes to multi-source contacts integration, accessibility and connectivity, the People Hub on WP is much superior to iOS's contact management.For example, iOS address book has links to internal phone numbers and e-mail addresses, but basically that's it. It does not have active links to external phone numbers (e.g.,contacts pulled from e-mail accounts), Skype contacts, and Facebook friends, etc.. In the People Hub, all these have active links, meaning that they provide a single click connection.In addition, People Hub pulls contacts from Skype, which iOS does not do at all.  If you use Skype, especially Skype Pro, you'd suffer a disconnection on iOS.Both address books link contact addresses to maps, but the Apple maps is essentially dysfunctional in this respect. Apple hasn't really spent time to make sure this function actually works (they have been focused on making the thing look pretty). It doesn't work most of the time.  Unless you have entered the contact address in a particular manner, clicking the address will result in a "not found" on the maps. The People Hub works perfectly with maps.Under the hood,  this is actually a search algorithm issue, not a user interface issue. Like Google,  Microsoft knows search. It shows.5. PRODUCTIVITYWindows Phone 8 wins this important area hands down, not because it is so good, but because others are so bad. The major thing is the Office App and OneNote App, and their integration with the excellent and generous (but underrated) SkyDrive. This allows Windows Phone to do the most essential things for productivity. WP8 further integrates Office 365 and SkyDrive perfectly. If you or your company subscribe to Office 365 and use the cloud versions of the OneNote, Office, Outlook, TeamSite and SharePoint, the productivity is boosted to a whole new level. The iPhone and Android simply cannot provide that kind of productivity. Even if you don't use Office 365, getting the Windows Live and Skydrive would already be the best productive user experience because of the integration with the Web version of Office.I hear people say that they can use an Office-emulating app to do some work on the iPhone (or Android). But no. For serious work, it simply doesn't work. You open a document (Word or PowerPoint, for example), do a slight editing, thinking that you have saved a bit time working on your smart phone, but only to later discover (or be told by an upset colleague) that you changed the subtle aspects of the formatting and styling of the document. That doesn't work for me, nor for anyone I work with. Work environment cannot allow this. The fundamental difference is that the Office App on WP8 and Office Web version have complete compatibility with the traditional Office, while other apps don't. They are built on different foundations. Microsoft's mobile renditions of Office may lack many features of the full Office, but they are completely compatible with it, and that's extremely important. When it comes to work documents, compatibility is more important than feature set.Overall, if documents and e-mails are just different ways of casual "instant messaging" to you, the iPhone is fine. But if documents and e-mails are a work tool to you, Windows Phone is the way to go.6. NAVIGATIONFirst of all, for those who miss Bing Maps, your Windows Phone still has it. It's only two taps away: tap the Bing search button (hardware button on the right side at the bottom), and then tap the "Local Scout" button (on the left side of the three on the search page).In addition to Bing Maps, Nokia offers a set of navigation apps including Nokia Maps, Nokia Drive, Transit, and City Lens. They together offer excellent navigation, better than Bing Maps alone, and also better than what iOS has to offer.Apple's first map is actually impressive with good features and of course great looks. But as Google has said, doing maps is hard. It's years of exercise versus a morning makeup. Currently, Apple Maps does have a problem. The reports of Apple's terrible map performance are related to map data inaccuracy and map search algorithms. Those Apple fans who refute such reports by claiming that they haven't experienced any problems are missing the point. Unlike other software in which a test is usually universal, your map test results only have to do with the location you tried, and only proves that the map is OK in that one location. When there is a problem at another location, there is a problem. And Apple has a lot of such problems reported. The company acknowledges it. They're not fools.  I don't know how fast Apple can improve on that. Data and fundamental algorithms are far more than just doing some programming to add skins. They might need to shell out a billion dollars to buy up.Compared to the excellent Google Maps, Nokia's navigation solution is mixed. It's worse in some ways, but better in other ways. Google shines on map data, especially in the North America segment, no question about it. Google's superiority in search is also reflected in its maps. The app overall feels more mature and advanced, further boosted by is far greater user base (which they earned).But Nokia has several important things on its side. The segmented downloadable maps for off-line GPS is a unique and significant advantage for Nokia. The reliable integration with contact addresses (People Hub) is another. The multi-angle approach of Nokia's navigation app set suits user's particular need better. Nokia also has comparable map data (although arguably slightly inferior North America segment) and mature map algorithms.Nokia's navigation solution comes with several separate apps. In comparison, Google puts everything under Google Maps. I like Nokia's way of tasking.  The Nokia apps are meant to be connected (they need to work more on that). You start with one app, but may transit to another when you need it. If done right, Nokia's approach could directly put the user at the best leveraging angle depending on the actual situation, using a specific app with the most suited user interface to maximize the user experience. Some people complain about it either because of their unfamiliarity with this design or their dissatisfaction with the current execution. I hope Nokia doesn't change this good concept, but just keeps on perfecting the apps and improving the integration under this framework.An often overlooked but significant feature Nokia offers is downloadable maps segmented according to regions. Once downloaded to your phone's local storage, the maps are fully functional off-line even when you don't have any cellular network or WiFi access. That could be a matter of getting or not getting to the destination. If you don't think this is important, I don't know what is. Even when cellular network is present, the off-line GPS map means big savings on your data usage.With the downloaded maps, the navigation on Lumia 920 may replace standalone GPS units. It has vastly better user interface to start with.  Address search, which is probably the most frustrating thing on standalone GPS units, is far better on Nokia Drive. The overall user experience is superior despite its lack of a few features. But if you need a dedicated GPS unit constantly mounted in the car, that's a different story.If you happen to be at a place without a car (Americans, have you traveled to other places in the world? People don't always drive), try Nokia Transit, which provides detailed guide for public transportation of cities around the world.Nokia takes navigation seriously. They have had an excellent maps tradition and accumulated expertise with Symbian-based cell phones. Considering that they jumped on the WP ship only recently, I'm confident that they will make this whole thing even better in a quite fast pace.7. THE SCREENBoth Lumia 920 and iPhone 5 have gorgeous screens, but the Lumia is still better. The viewability under direct sunlight is noticeably better on Lumia 920. Both are extremely clear for text and webpage rendering, but Lumia 920 works much better in the portrait mode because of its greater viewing dimension.And Lumia 920 has touchscreen capability when you wear gloves. This may come handy in very cold winter outdoors. But for me, the usefulness is more than during the winter. To protect my hands from suffering  painful skin and split fingernails, I often need to wear a glove on my right hand while I'm doing air traveling. Lumia 920 is the only phone that I can use wearing a glove. It is not a gimmick at all.8. THE CAMERALumia 920 has the best cell phone camera on the market, leading by a significant margin, except for Nokia's own PureView 808 which is a different type of device.  I say this very objectively. Those who don't see the difference either didn't test it under right conditions, or simply can't tell the differences in photo quality. Lumia 920 is the only smartphone camera that can take decent concert (or party) photos and videos. Its lowlight performance is at least two ISO stops (that's 4 times) better than the iPhone 5.  This is primarily due to Nokia's unique pixel binning technology further combined with image stabilization. Neither Nokia nor Apple makes the camera sensors (Sony does), but the photo quality is not only about the sensor itself. Nokia has a tremendous technological and patent advantage in this area.By the way, stop comparing which camera has more megapixels. High MP is a trick used by camera makers to tax on consumer ignorance, and in most cases has very little correlation to picture quality. On cell phones in particular, there are several reasons why it's meaningless to pursue higher MP count. First, no tiny lens on a cell phone is capable of optically resolving pixel numbers beyond 5MP. I challenge you to find a scientific test to prove otherwise. Second, because of the very small sensor sizes, low light performance is a far bigger problem than the number of pixels. Third, you don't need more than 2MP on a cell phone. Generally, photos taken by smart phones are only used for screen viewing instead of making large prints. Even 2MP would be plenty. For web posting, a high-quality 1MP photo would look far better than a lousy 10MP photo.I'm not saying that a smaller pixel number is a good thing in itself. On the contrary, I'm just saying that for a given sensor technology, pixel density is the best sacrifice to make if the goal is to take better pictures with a cell phone camera sensor.  Most consumers don't realize that for any given sensor technology, an increase of pixel density comes at the expense of lowlight performance and dynamic range. (Many people intuitively reject this notion, reasoning that it does not make sense that lowlight performance and dynamic range would be affected by pixel density as you can always downsample. But to understand this, you must stop treating pixels as abstract geometrical concepts but actual engineered photosites with optically dead physical boundaries. That is a different topic though.)Every time when the sensor chip technology is improved, they usually have two options: (1) increase the lowlight performance and dynamic range by keeping the same pixel density, or (2) increase the pixel density (to get a greater MP count for a given sensor size) by holding back the real performance. Unfortunately they usually choose the latter because the MP count is a much more marketable gimmick.So instead of honest value, we now have the madness of smartphones reaching and going beyond 10MP with little meaningful result but unnecessarily bad lowlight performance, poor dynamic range, and a big waste of storage, data usage and processing time. Had they focused on real performances on 2-4MP sensors with a generous sensor size permissible on smartphones, we would have now had much more useful cameras on these gadgets.In this regard, Nokia is doing great in spite of (not because of) joining the megapixel race, again thanks to its pixel binning technology and image stabilization.9. BUILD QUALITYNokia 920 is a marvelous piece of engineering and manufacturing. Both Nokia 920 and iPhone 5 have a premium appearance, only very different flavors. But the Nokia is without question tougher. I say this not because Nokia is heavier. They use different materials. In choosing materials, these two companies have very different philosophies. Apple always goes after materials that enable extremely slim and light products, while Nokia has always been concerned of durability.If you are already conditioned to update your phone every year, you are an ideal Apple-kind person already. But still, hold your iPhone dearly and don't drop it. I have an iPad 3 that was accidentally dropped from a sofa sidetable to a hard floor head-down. I was completely shocked by the amount of damage it caused. I was expecting a dent on the edge or at worst a crack on the screen, but the whole thing was smashed like glass. That's when I discovered that the iPod 3 uses a glasslike material even for the frame, which looks great, but, just don't drop it.So you might actually need a case for your iPhone.  Lumia 920 does not need one. In fact, I can't imagine a case for Lumia 920 without ruining its gorgeous appearance.10. THE DESIGNThis is completely subjective. But I personally feel iPhone 5 is too youthful and delicate, and better in a hand of a teenager, while the Samsung Galaxy S3 too rounded and has no character. I love the overall masculine (but gentle and absolutely not rough) and squarely straight style of Lumia 920.  Go to YouTube to hear Marko Ahtisaari of Nokia articulating the design philosophy.11. THERMAL BEHAVIOR AND BATTERY LIFEThe Nokia 920 does not run hot, thankfully. This is one thing I was particularly worried after the bad experience with the Dell Venue Pro which had disgusting thermal performance and power management.Battery life is good, although not excellent, comparable to other top performers such as iPhone 5.  If there would be an improvement that could persuade me to change my phone again, it would be a new phone that could last at least a couple of busy days without recharging. I am not a heavy mobile user, but I'm out on a trip quite often.  The battery life of my cell phone is among the biggest mental burdens while traveling. Unfortunately, it looks like battery life is not what these companies are focusing on at this time.12. APPSiPhone wins by a large margin in terms of app number. Although a vast majority of apps are junk on both systems, there are some great apps on both; iOS just has more due to its sheer larger base. So it seems that most people will need to sacrifice a few apps by choosing Windows Phone platform for now. I'm missing quite a few useful apps on the Windows Phone, and make up the deficiency by using the iPad. Windows Phone also has some very good apps that are missing on iOS (in addition to Nokia apps and Microsoft apps), although not as critical.The most important app I miss on the Windows Phone is a decent PDF reader. Microsoft rushed out its own PDF reader, which works for basic reading but has some serious limitations. I hope Adobe or a third-party releases a better PDF reader on WP8 soon. This is a big pain point.However, none of these missing apps has the kind of importance comparable to that of navigation and productivity. To me, the choice is clear. I think it's misleading to do "bean counting" the small things of each system. You've got to have priority. If you need one function that has a dominating priority, then one million less useful "apps" would no longer matter.Despite the relative minor changes in appearance from WP7 to WP8, Windows Phone 8 has got a much better foundation in the program architecture than WP7.  With the Windows NT kernel and 90% source code compatibility with Windows RT, the app future looks good.13. FLUENCY AND EFFICIENCY OF THE OPERATING SYSTEMWindows Phone 8 on Lumia 920 beats iOS on iPhone 5 in terms of fluency and efficiency. WP has a hardware "Back" button in addition to the Home button, while iPhone has just a Home button. This has a significant impact on the flow of operation.  I know this is rather subjective, but one thing that particularly bothers me on the iOS is that it requires you to always go back to the home button. You can't directly go back to another place you have just visited. You always have to go back home and start from there again. I remember Steve Jobs proudly making a big point out of it. Theoretically, going back home and then to the last app takes only two steps, but problem is that when you have multiple pages of apps, it causes a bit of hesitation to locate an app.Both iOS's "double-clicking Home" and WP's "long-pressing back button" give you a nice quick list of the opened apps to simplify the selection of apps, but still the additional "Back" button functionality WP is very much appreciated.Another thing that impacts the efficiency is the management of installed apps. The iOS manages installed apps in a simplistic way with much emphasis on the appearance not the functionality. Windows Phone has a much more sophisticated way. The installed apps are directly and separately searchable, and are also automatically organized under alphabetical categories that can be quickly accessed through a single page grid (which itself is accessible by a single swipe). If you have less than 20 installed apps, you will see no difference. If you have about 20-50, the difference would start to show. With 50-100, it becomes apparent, and beyond 100, the difference would be huge. The more apps you install, the greater the difference would be. So power users will find this an advantage on Windows Phone.When you come to think of it, the above may be the reasons why the iOS is so intuitive for beginners, but less efficient for more experienced users. On user interfaces, these two things often conflict. I can see why many like the flow design of iOS, but I prefer WP8's flow much better.14.  CUSTOMIZATIONIt almost sounds silly that one of the biggest improvements WP8 has over WP7 is adding some smaller sized tiles. Hardly innovative, but it makes a big difference, largely speaking against the old design. I don't like those big tiles. I simply don't think any app deserves that much attention, especially in such a uniquely precious small room. I customized my start page to have all tiles in quarter size except for the phone button. Thank you, Microsoft, for allowing such basic freedom. My start space is now much more efficiently used and no longer a victim of the almost tyrant "less is more" so-called clean design philosophy.The level of customization further down is mostly on par with the iOS.  Android would still have an edge over both, but I think this is got to a very reasonable level already.But I do have one big complaint against Windows Phone:  With WP8, you still can't turn off that stupid screen auto-rotation. You simply can't so far. No user settings has that. No app that does that. Even unlocked phone can't do that. Forgive me to call auto-rotation feature stupid. But it is one of those tech-things that make no sense on a mobile phone, precisely because a mobile phone is just so, mobile. The problem is that these device designers fail to understand that the proper (or desired) orientation of the screen simply cannot be determined by an orientation sensor. The sensor determines the orientation using gravity and the earth as the reference, not your body. As a result, the sensor can only detect the phone's orientation itself, not its relative orientation to the user's body posture, which is what actually matters.  So it works properly only when you are standing straight, not when you are inclined or lie down. In fact, it always turns to the wrong orientation when you are inclined or lie down, so you have to fight it.In practice, the non-switchable autorotation causes much more annoyance than any utility. It is OK if they just use it as a gimmick to attract feature counters, but it is not OK to have it permanently implemented and cannot be turned off. It's simply stupid.I think the best solution is iPad 3's combination of autorotation plus a hardware-based button for a mechanical lock. It combines the best of both worlds. The iPhone has autorotation plus user manual options in the settings and apps, which is not as good as the iPad, but still much better than Windows Phone's autorotation only, whenever and wherever.The reason why I make this auto-rotation issue such a big deal is just to make a point, not because the thing itself is so life-threatening. I can live with the annoyance. But the failure or overlook of such issues after all these years is very telling of Microsoft.15.  REFINEMENT OF THE OPERATING SYSTEMWhen it comes to very fine details, Apple wins. WP8 has improved over WP7, but still no match to the iOS in its refinement of details. Company wise, and culture wise, Microsoft has not fully learned this art yet. Let me name a few:(1) The input mode is still a mess despite an excellent keyboard. Although typing new text is easy, accurately placing the cursor to edit text is virtually impossible. Also, you can't quickly do a "select all" to copy and paste a text.  It requires a painful maneuver to do so, many times more difficult than doing the same on iOS which gives you a selection in an automatically pop-up menu. Oh please, they struggled with this copy and paste thing from the very beginning and received a disproportionately great amount of criticisms, so you would think that they would have jumped all over it to not only improve it, but in fact over-improve it. Not at all. It's still a half cooked solution.(2) The network status indicators on the top of the screen don't stay. They disappear transiently. You have to touch the screen in a particular manner to bring them back. You can't change that in the settings. This is useless frivolous design. The indicators don't occupy extra space at all when they are displayed, and their disappearance does not result in any benefit. It just makes the system fussy and less certain. My basic assertion is that cell phone's network status is a constant user concern, and being able to glance at these essential indicators any time gives you peace of mind, and is a good part of the harmonious "handset environment". Having to always struggle for such a simple thing is nonsense especially when the sacrifice is made for no purpose.I think what happened at Microsoft was like this: One day, someone from Microsoft management shouted in a meeting: "Less is more! Less is more! Look at Apple, we need to learn from them!" And shortly after that, a Microsoft engineer came up with this idea of hiding the network status indicators...Microsoft has done the hard part of building a very promising mobile OS, it shouldn't be so difficult for them to do these very basic and simple things right. It is obviously not an engineering issue. It is a product management issue.
+just what you need, I am always having to charge my phone and then find I have another item to charge also.
 
 Segmented:
 1 :
- _________________________________________A not-so-serious review first:Lumia 920 >>>>>>>>>>>>>>>>>>>>>>>>> iPHone 532GB ---------------------------------------------32GB$99------------------------------------------------$299Master Maps-------------------------------------Mess-up MapsOffline GPS---------------------------------------iLostPublic transit guide for global traveler ------iLonely and secretly flirt with SiriPureView Camera-------------------------------PurpleView CameraClear lowlight photos---------------------------My party photos are drunker(fuzzier) than yoursAnti-scratch--------------------------------------Full-ScratchSurvives a fall-----------------------------------The poor pretty thing!Gets the job done-------------------------------What job?Good for normal people-----------------------Good for Apple worshipersNokia: "Sorry, we will update"-----------------Apple: "You're holding it wrong!
+ just what you need, I am always having to charge my phone and then find I have another item to charge also.
+#####
+#####
+Sentence 4:
+I've been watching the HTC Thunderbolt 4G phone and finally gave up on it due to all the bugs and horrible battery life.  So after reading several reviews on the Samsung Droid Charge, I decided to take the plunge.  Here's how my first few days with the new phone went - the good and the bad.  First some qualifiers - I live in the Maryland suburbs outside DC where there is 4G service.  My previous phone was a Blackberry Storm 2 (touch screen - no physical keyboard).The first three things you notice are how big the phone is, how bright the screen is and how surprisingly light the phone is given its size.  You should go to the Verizon store and check this phone out before you buy just to make sure you are comfortable with the size.  The screen is as big as my Garmin screen!  For me, it was a good thing.  Web pages, email, maps, etc are generally easier to read.Day 1-I bought this phone midday on the Monday following its release.  There was a software update that installed even before leaving the Verizon store parking lot.  No problems with the install.  The phone felt a little buggy afterwards.  So I did a restart which cured all problems.  Coming from a Blackberry, there was a learning curve.  So, I spent some time reviewing the included tutorial to learn the phone and get comfortable with the different features.  I had to call Verizon tech support to figure out how to set up my POP3 email account.  I have my own email server and couldn't find all the settings.  Kudos to Verizon for being so helpful.  I installed a compass & Sudoku apps from the Android Market (very cool) and paired the phone with my Plantronics Voyager Pro + headset.  The volume on the headset was actually louder with this phone than with my old Blackberry.  This was a welcome surprise.  The HTC Thunderbolt has had problems with its bluetooth functionality.  I'm happy to say the Samsung Droid Charge has caused no problems for me so far.  I found the Contacts function to be missing one feature that my Blackberry had.  I can't program the phone "Not" to ring when a particular person calls me (we all have one in our life).  The silent ringer function exists in other places in the phone.  It just didn't make it to the Contacts feature.  Samsung, please fix this.  Both the Samsung keyboards (regular & Swype) are far superior to that on my touch screen Blackberry!Day 2-I'm happy to say that on my first full day of use, the phone made it through an entire day without charging (7 AM to 11:00 PM) with apx 40% battery life left when I went to bed! I used the phone normally - a little web browsing, phone calls, email, a few apps and 4G turned on and working all day!! I did turn off Wi-Fi and the GPS.  Though, I turned the GPS back on while using the maps and a compass later in the day.  I like the phone! I saw no noticeable problems or bugs with the phone.  4G is incredibly fast!!  Sound quality is good too - both for me and for the person I'm calling.Day 3-I spent a lot of time using the phone today.  The included calculator is too basic - missing the memory buttons (M+,M-,MC,MR) which I need.  My Blackberry calculator had them.  While it's not a big deal given all the available apps in the app store, Samsung could have done a better job with a few of it's features and widgets.  I spent the day doing everything I normally do (see Day 2). In addition, I downloaded 4 different calculators, uninstalled those I didn't like and installed Angry Birds!  I now understand why people like that game so much.  I also spent some time in an appointment out in the mountains where there is no cell reception.  This causes your phone to constantly search for service and torches the battery.  My old Blackberry did the same thing.  So when 5:53 PM came, I got a low battery warning.  So today, the phone made it from 7:00 AM to 5:53 PM without a charge and everything but Wi-Fi turned on.  My advice... Buy a car charger!  I discovered problems later in the day.  I couldn't sign into my voicemail from my cell phone.  I called tech support.  Again, kudos to the Verizon guy for being so helpful.  He confirmed that this was a problem with the phone and that Samsung is working on a maintenance update.  I also found out that the Samsung Media Hub only works in 4G (not sure I really care - I have no intentions of buying any music, etc from Samsung).  One other odd problem I had was with the Music Player.  It keeps turning itself on periodically throughout the day.  Samsung has a widget called Program Monitor that I REALLY like.  It takes the place of an app killer app like you need on the Thunderbolt.  It automatically tells you if any programs are running in the background and gives you the ability to easily turn them off, either one at a time or all at once.  Doing this extends battery life.  While talking to tech support, I shared the Music Player thing.  He said he would include it with the info Verizon sends to Samsung.  Getting back to my voicemail problem, I remembered all the app installing and uninstalling I did earlier in the day.  The tech guy said it wouldn't hurt to restart the phone and try dialing voicemail again.  This fixed the problem.  Lesson learned - after installing or uninstalling apps or software updates, restart the phone!  Spent the balance of the evening playing Angry Birds and messing with the phone.  These new phones really are pocket computers.  You notice this as you move from one app or function to the next.  This phone seems to handle everything you throw at it very smoothly and with very few hiccups.Day 4-Phone off the charger at 7:00 AM.  Everything seems to work fine.  The music player turned on 4 times during the day - don't know why or if it even matters.  I turned it off using the Program Monitor widget.  There was not as much time spent on the phone today.  I did take a couple of test shots with the camera.  It seems to do a really good job for a cell phone camera.  Shut down at 9:00 PM with 50% power left on the battery.  Everything was turned on except Wi-Fi.Day 6-Saturday-Hardly used the phone today.  Turned on at about 8:00AM.  At 9:24PM, I still have 74% battery life left with everything turned on except Wi-Fi.  Samsung has cured the 4G battery problem!!***Update Wednesday 5/25***Day 10-This phone does have a few bugs beyond those already mentioned.  The phone stopped making phone calls last Sunday.  I got this loud screeching/static sort of sound right in the middle of a conversation.  I ended the call and tried to redial.  At that point, I could not make or receive calls without hearing that screeching sound.  I called Verizon for the third time since purchasing this phone.  They were good to talk to, but had no suggestions other than to restart the phone.  This DID fix the problem.  I have not had any more problems of any kind with the phone since last Sunday.  My guess is this phone could use a maintenance software update from Samsung to improve stability.  Verizon could still be having some 4G problems too.  These bugs aren't that big a deal.  Every problem I've experienced has been fixed by turning the phone off and then on again.  It is something for you to be aware of though.  I still like the phone!***End of Update******Update Sunday 6/5***Day 21-This phone has two bugs that I am aware of.  The first - The Mobile Hotspot feature has stopped working.  According to Verizon tech support, it's a Samsung problem.  Verizon and/or Samsung are working on an update.  Until that update is released, at least some of the Droid Charge phones won't have the ability to use the mobile hotspot feature.  4G and everything else seems to work just fine.  The second - I'm having a very occasional problem using my Plantronics Voyager Pro+ headset with this phone.  It seems the first call made with my bluetooth headset after powering on the phone has a problem where I can hear, but the person I'm talking to can't hear me.  Verizon tech support wants me to go to a store and demonstrate the problem for one of the techs.  I'll update this again after this has been completed.  It would be interesting to know if anyone else is having this bluetooth problem.  Verizon suggested that the bluetooth problem could be something that would allow for a replacement phone.  The last item is minor.  The power button is finicky, but only when trying to turn the phone on.  I turn off the phone at night.  The next morning, it requires just the right (firm) touch to turn the phone back on.  All other functions supported by this button work fine.  These are the first real problems I've had with this phone.  While there is no excuse for the problems, this phone has far fewer bugs than phones like the Thunderbolt.  I dropped my rating from 5 to 4 stars until they fix the problem.  I'm still happy with "the rest" of this phone and have my fingers crossed for a quick fix/update to the hotspot feature.***End of Update******Update Saturday 6/11***Day 27-I just installed the maintenance update Verizon/Samsung prommissed us.  It fixed a number of things - mobile hotspot works now, 4G reception is improved (I consistently have one extra bar of reception sitting here in my living room), battery life improved, the screeching noise I previously mention fixed, mild performance increase and a number of other improvements.  There still seems to be an occasional issue with my bluetooth headset.  This could be the phone or the headset.  I just can't say right now.  I'll update this review when I have more info.***End of Update******Final Update 6/16***Day 32-The last update seemed to take a day or so and a few restarts before it really took effect.  It appears my bluetooth headset problem is the headset's fault.  Plantronics replaced it for me under warranty.  The predictive text seems to work better with the new update.  Previously, it made you work a little too hard to choose the right word.  The handoff between 4G, 3G & 1x works pretty well most of the time.  Occasionally it will struggle with the switch back & forth.***End of Update******This is the "I hope this is my final update" update 7/1***Day 47-Some final details to help you with the phone and get started with the android operating system.  I've played with a number of apps and decided to keep the included email, sms and contacts.  They do everything I need them to do and seem to use fewer resources than some others I tried.  Some business users may want to consider a replacement email program.  I did not feel the need.  I installed the Dolphin HD Browser for surfing the web.  It seems faster than the stock browser.  I downloaded a ringtone app from the android market that allowed me to assign a silent ringtone to a contact, thus solving my earlier complaint from Day 1 above.  I did install a new home screen launcher - Go Launcher.  It allows for more customization and speeds up the phone just a bit.  Instructions are online.  If you install Go Launcher, you loose the included Program Monitor Widget, but get to keep the Task Manager app which does everything the widget did.  Look for it in the app drawer.  In addition to my Gmail email, I also switched from a POP3 work email account to an IMAP (push email) account through the included email app.  The weather clock I settled on is Beautiful Widgets.  It's MUCH better than the included version.  I've installed a number of other apps that were for personal use.  These mentioned affect how well the phone functions.  I feel like I'm done with my customizations and really like how the phone turned out.  And yes... 4G is really worth it!!***End of Update******Update 7/29 One Final Bug Remains***The bluetooth bug is a Samsung problem.  I've been through two Plantronics Voyager Pro + Headsets and three Droid Charge phones.  They all exhibit the same behavior.  There is an occasional problem where callers can't hear you, but you can hear them. This problem continues until the phone disconnects itself from the headset.  To get the phone & headset connected again, you have to delete the headset profile from the phone and go through the process to pair them again.  I've also been told that Jawbone and Motorola headsets exhibit this same behavior.  Through trial and error, I've figured out a workaround that works most (but not quite all) of the time.  If you pair your bluetooth device while the phone is awake (screen turned on), you'll eliminate most of the bluetooth problems.  Pairing takes a good 12 to 15 seconds.  This is important because after about 5 seconds, my headset says, "phone one connected".  Well, it's not fully connected yet.  In my case, there is a final beep after about 12 to 15 seconds indicating the bluetooth device is properly paired to your phone.  If you don't keep your phone awake while pairing or accidently walk out of range of your phone while wearing your bluetooth device, the problem will return unless you power off your bluetooth device and re-pair while the phone is awake.  According to Verizon, there is another software update (likely the upgrade to the Gingerbread 2.3.4 operating system) coming at the end of the summer.  They could not say if this bluetooth bug will be addressed in that update. ***Verizon has now said they ARE looking into bluetooth compatibility issues.  So hopefully, another update will be coming soon.*** According to Samsung tech support, they ONLY claim that this phone will work properly with Samsung headsets.  This seems to be a problem with Verizon's other 4G phones as well.  So, I can't offer anything other than to say this is something to be aware of.  It may be related to the how the phone tries to save battery life while in sleep mode (screen shut off).  The bluetooth bug is my only reason for 4 stars instead of 5.  One final disclosure I feel I should make... Since I finished setting up the phone and installing all the apps, I have noticed that battery life has dropped off a little.  On heavy use days, the phone hits the charger on my 5:00 ride home.  On normal use days, I usually get the 15% low battery warning around 10:00 PM.  On those low to no use days, I typically shut down with anywhere from 40 to 65% battery life left.  It is also important when discussing battery life that you know my screen was set to auto brightness.***End of Update******Update 10/10/11***The bluetooth bug has finally broken my phone.  Everything works great except my phone will no longer hold a pairing with my bluetooth headset beyond turning it off at night.  Verizon is willing to replace my phone for free with a new Charge or any of their other 4G phones.  There is a big update coming in perhaps the next month that will likely fix my Charge.  Given that I'm a real estate agent that spends a lot of time on bluetooth, I've decided to try the Motorola Bionic instead of a replacement Charge.  I really do like the Charge.  Verizon tech support has been very nice and very helpful.  The price of the Charge has been greatly reduced making it a better deal.  If you can live without bluetooth until the update comes out, I still like the Charge.  If bluetooth is important to you, I recommend you look elsewhere for at least the next few weeks.Moving forward... My recommendation is to wait 30 days before buying a new phone.  The updates for the existing phones should be out by then.  You can check Verizon's community forums for information about the updates.  There are also rumors of three new 4G superphones hitting Verizon between 10/18 and say 11/10 - Motorola RAZR, Samsung Nexus and an HTC.  This will do two things. First, it will reduce the price of the existing line of 4G phones.  Second, it will give you more phones to choose from.  Either way, I truly believe Verizon 4G is the way to go.If you want some initial thoughts on the Bionic, see comment number 42 in the comments section below.***End of Update******Update 12/2/11***The operating system and bug fix update is being pushed out by Verizon today.  It could take a week or so before everyone gets the update.  My guess is this update will fix the bugs and provide some new features.  If you are thinking about buying this phone, It could be a good lower cost 4G phone.  I would check the Verizon Communtiy Forum and/or other Droid Charge Forums to see what others think about the update.  I own the Motorola Bionic now and am waiting for my own update from Motorola/VZW.  I put so much effort into this review, I just wanted to close the loop.  Good luck!***End of Update***Final negatives-The Price!  I paid $270.00 for this phone after a $30 discount from Verizon.  It should be cheaper!  I plan to update the included Weatherbug Widget.  According to the Weatherbug site, the widget gives what has happened during the day, but not what WILL happen.  For example: The included Samsung Weatherbug widget says today is 61 now, and 58 was the coldest so far today, a partly cloudy animation(neat looking) and the time.  What's missing is the predicted high temp for the day.  Kinda silly leaving out THAT piece of info, especially if you check the weather at 7:00 AM.  The included clock widget leaves something to be desired as well.  I'll go back to the app store to find replacements I like.  When I read people's complaints about the Samsung UI, I think they are referring to things like these widgets that just don't function like they should.  It's easy enough to fix with a trip to the app store.  The question for Verizon/Samsung is... With as much money as we have to pay for this phone, why do we have to fix such simple little things?  Note to Samsung: You have a great phone. Please fix these annoyances.The bottom line-This phone is incredible and so is 4G!  I got 12.2 mb download and 4.6 mb upload speeds with the speedtest.net app from the Android Market!!  There are a few quirks in the way the phone operates.  This phone and Verizon's 4G network are still very new technologies.  With these few exceptions, Samsung has done a great job creating a phone that is smooth to operate, surfs the internet incredibly fast, seems to be relatively bug free and has really good battery life - at least for a droid.  I can also say that the reception of the Samsung Droid Charge is better than that of my old Blackberry.  I had little or no problems with reception and/or call quality.  The speakerphone works well too.  If you compare this to Verizon's other 4G phones, this IS your best option!  I can find NO reason why you should not purchase this phone.  I know there will be the few that feel they have to wait for the dual core processor in the Motorola Bionic when it gets released in another few months.  For most people, this phone will have ample power and all the features you could want.  I will even go so far as to say this phone is better than the iPhone.  I say this in part because the speed of this phone (4G) simply blows the iPhone away!Practical suggestions:  Buy a car charger or spare travel charger.  You won't need it every day.  You will need it sometimes though.  I'm not sure I see the need for an extended battery - unless you are a really heavy user.  I never tried turning 4G off.  Turning this feature off should extend the battery life beyond those I've reported.  Perhaps I'll give it a try during my next camping trip where I won't have an option to recharge the phone.  If you like belt clips, the Verizon store has the best I've seen. (Amazon sells it now for half the price:Samsung Droid Charge Shell/Holster Combo W/ Kickstand) I really like the one I bought.  Remember to restart the phone after adding or removing apps or updates.  It does make a difference and will keep your phone running smoothly.  I did find replacement apps/widgets that I really like in the Android Market to replace those that were included with the phone that I didn't like.  Install the included Samsung Program Monitor widget.  It works, is simple to use and could help extend your battery life.I rely a lot on reviews here on Amazon when I make purchasing decisions. I hope this review helps you with your decisions.  I'm very happy I bought this phone and would buy it again.  Highly recommended!!
+
+Segmented:
+1 :
+ I've been watching the HTC Thunderbolt 4G phone and finally gave up on it due to all the bugs and horrible battery life.
 2 :
- "Clear view under direct sunlight--------------Is my phone on?4.5" viewing asset-------------------------------Squint retinallyWireless charger--------------------------------Where is my this-year's-special cable?Touchscreen wearing gloves-----------------Cut a hole on gloveA more serious review follows:Having used the phone for a while now, I'd like to provide a more objective assessment.
+ So after reading several reviews on the Samsung Droid Charge, I decided to take the plunge.
 3 :
- I give ratings below first, followed by detailed explanations.
+ Here's how my first few days with the new phone went - the good and the bad.
 4 :
- The rating numbers are on a scale of 10.
+ First some qualifiers - I live in the Maryland suburbs outside DC where there is 4G service.
 5 :
- A score of "10" means it is not only the best but also has no apparent need to improve, and a score less than "10" just means there is room to improve but does not necessarily mean another product is better.
+ My previous phone was a Blackberry Storm 2 (touch screen - no physical keyboard).The first three things you notice are how big the phone is, how bright the screen is and how surprisingly light the phone is given its size.
 6 :
- The numbers in the parentheses are for iPhone 5 as a reference.RATINGS-------------  Lumia 920 (vs. iPhone 5)Call Quality --------------------10 (8)  Uncompromising call quality from Nokia, a true phone companyInstant Messaging------------10 (10)  Big improvement over WP7; group messaging and MMSE-Mail-----------------------------9 (7) WP8 has the best enterprise-ready e-mail clientSkype and VoIP calls----------9 (7)  International VoIP calls a reality with on WP8Contact Management---------9 (6)  WP8's multi-contact aggregator and integrator the bestEntertainment-----------------10 (10)  Too much already, what more could you wantSocial Networking--------------9 (8)  Facebook integration is an edgeWeb browsing------------------9 (8)  IE10 is outstandingShopping------------------------7 (9)  Comes from Apple's apps edgeNavigation-----------------------8 (5)  Apple's first Maps is actually impressive, but see discussionsProductivity---------------------6 (3)  Not there yet, but at least WP8 can do some workScreen--------------------------10 (8) Lumia 920 has the best looking screen consumers have ever seenCamera--------------------------9 (7)  In its own leagueBuild quality-------------------10 (8) You might have trouble to say goodbye to Lumia 920 two years laterThermal performance---------8 (8)  CompetitiveBattery life----------------------5 (5)  All need improvement badly in this areaOS reliability--------------------9.9 (9.5)  WP8 never even freezes, much less crashesOS fluency----------------------9.5 (9)  Ice-skating with WP8, and floor dancing with iOS, I much prefer the formerOS flexibility/customization---8 (8)  Android is the kingOS refinement------------------7.5 (9.5)  Microsoft is still no Apple on refined detailsOS apps ecosystem-----------6 (9.5)  iOS rules for nowCurrent Fashion Index--------0 (11)To ease your reading, I'll put the conclusion first before the detailed sections.CONCLUSION:  Laying aside the nitpicking, I am in love with my Lumia.
+ You should go to the Verizon store and check this phone out before you buy just to make sure you are comfortable with the size.
 7 :
- There are so many great phones today that it has become a problem to choose one.
+ The screen is as big as my Garmin screen!
 8 :
- But the top WP8 phone is the choice by both my brain and my heart.
+ For me, it was a good thing.
 9 :
- If I were a bit geekier, I might have gone with Android; and if I didn't have to work I might have gone with iPhone.
+ Web pages, email, maps, etc are generally easier to read.Day 1-I bought this phone midday on the Monday following its release.
 10 :
- But this is my phone.
+ There was a software update that installed even before leaving the Verizon store parking lot.
 11 :
- It's for a practical man with a taste.
+ No problems with the install.
 12 :
- I hesitated when Lumia 800 came out, knowing that it would be incompatible with WP8.
+ The phone felt a little buggy afterwards.
 13 :
- Now Lumia 920 is such an attractive package.
+ So I did a restart which cured all problems.
 14 :
- I don't think I'll change my phone anytime soon, although I do hope that there would be some nice updates from both Microsoft and Nokia to make this phone even better.1.
+ Coming from a Blackberry, there was a learning curve.
 15 :
- CALL QUALITYIt is a phone after all.
+ So, I spent some time reviewing the included tutorial to learn the phone and get comfortable with the different features.
 16 :
- The call quality of Lumia 920 is absolutely top-notch.
+ I had to call Verizon tech support to figure out how to set up my POP3 email account.
 17 :
- The voice is so clear it puts my landline cordless phone to shame.
+ I have my own email server and couldn't find all the settings.
 18 :
- Nokia knows how to make phones.
+ Kudos to Verizon for being so helpful.
 19 :
- They are the true phone company.
+ I installed a compass & Sudoku apps from the Android Market (very cool) and paired the phone with my Plantronics Voyager Pro + headset.
 20 :
- The HAAC microphones (Rich Recording Mic) are not your ordinary microphones on cell phones.
+ The volume on the headset was actually louder with this phone than with my old Blackberry.
 21 :
- A different league.
+ This was a welcome surprise.
 22 :
- The speakerphone is pretty good too, quite loud and clear.
+ The HTC Thunderbolt has had problems with its bluetooth functionality.
 23 :
- In fact I once had a conference call using the speakerphone with several people on my side, and it worked out fine.2.
+ I'm happy to say the Samsung Droid Charge has caused no problems for me so far.
 24 :
- E-MAILOverall, WP8 has the best mobile e-mail.
+ I found the Contacts function to be missing one feature that my Blackberry had.
 25 :
- Windows Phone has an inherent advantage in e-mail, especially work e-mails.
+ I can't program the phone "Not" to ring when a particular person calls me (we all have one in our life).
 26 :
- Apple does not own a popular e-mail service, and can only support third-party e-mails.
+ The silent ringer function exists in other places in the phone.
 27 :
- Android enjoys the excellent Gmail, but Gmail does not have a strong foothold in the workplace.WP8 has deep integration of Exchange, Office 365's Outlook e-mail, Hotmail and Live Mail on Windows Phone.
+ It just didn't make it to the Contacts feature.
 28 :
- WP8 further has excellent integration with the popular Gmail and Yahoo Mail.
+ Samsung, please fix this.
 29 :
- All this results in an e-mail client that is more capable and efficient than other platforms.
+ Both the Samsung keyboards (regular & Swype) are far superior to that on my touch screen Blackberry!Day 2-I'm happy to say that on my first full day of use, the phone made it through an entire day without charging (7 AM to 11:00 PM) with apx 40% battery life left when I went to bed!
 30 :
- To name a few, contact management, contact synchronization, message management, message synchronization, file management, attachment management, folder management, conversation thread management, and e-mail search, are significantly better on Windows Phone e-mail.
+ I used the phone normally - a little web browsing, phone calls, email, a few apps and 4G turned on and working all day!!
 31 :
- The difference is far deeper than appearance.
+ I did turn off Wi-Fi and the GPS.
 32 :
- If you handle e-mails with some degree of sophistication, you will appreciate the difference.I travel with both my iPad and Windows Phone.
+ Though, I turned the GPS back on while using the maps and a compass later in the day.
 33 :
- Unless I am using my computer, I usually reach out for the Windows Phone for e-mails instead of the iPad, despite the fact that the e-mails on iPad have so much better readability.
+ I like the phone!
 34 :
- This wasn't the case before when I used an iPhone.
+ I saw no noticeable problems or bugs with the phone.
 35 :
- To just read a recent e-mail, the iPad is an obvious choice.
+ 4G is incredibly fast!!
 36 :
- But you don't just read a recent e-mail.
+ Sound quality is good too - both for me and for the person I'm calling.Day 3-I spent a lot of time using the phone today.
 37 :
- Work e-mails have history and threads, and they need to be searchable, and fully synchronized with your computer, and that's where the Windows Phone shines.For example, if you just read or deleted an e-mail on you phone, you want the status to synchronize with the server and other devices, otherwise you end up paying attention to the same e-mail too many times or having to delete the same e-mail multiple times.
+ The included calculator is too basic - missing the memory buttons (M+,M-,MC,MR) which I need.
 38 :
- For another example, if you need to search to find an older e-mail which is not stored on your phone (due to memory conservation, mobile devices do not download and keep a copy of every e-mail in the past), you want your mobile e-mail to give you an opportunity to search e-mails on the server.
+ My Blackberry calculator had them.
 39 :
- WP8 does these perfectly.I also like the fact that Windows Phone has a separate live tile with a customized icon for each e-mail account.
+ While it's not a big deal given all the available apps in the app store, Samsung could have done a better job with a few of it's features and widgets.
 40 :
- I don't like the idea of mixing my work e-mail and personal e-mail in the same box, or even under the same icon.
+ I spent the day doing everything I normally do (see Day 2).
 41 :
- I need a clean definition of territories.
+ In addition, I downloaded 4 different calculators, uninstalled those I didn't like and installed Angry Birds!
 42 :
- Of course, if you intend to combine e-mails, you can do that as well on WP8.
+ I now understand why people like that game so much.
 43 :
- Flexibility.3.
+ I also spent some time in an appointment out in the mountains where there is no cell reception.
 44 :
- SKYPE AND NON-CELLULAR SERVICE DEPENDENT PHONE CALLSSkype, owned by Microsoft now, is an important function on WP.
+ This causes your phone to constantly search for service and torches the battery.
 45 :
- Microsoft also makes a Skype app for iOS, but the app is still not nearly as good as the integrated Skype on the Windows Phone.If you use Skype Pro and/or Skype Out, you can actually make phone calls anywhere in the world as long as you have Wi-Fi or cellular data connection.
+ My old Blackberry did the same thing.
 46 :
- I'm not talking about Skype-to-Skype calls.
+ So when 5:53 PM came, I got a low battery warning.
 47 :
- I'm talking about calling real phone numbers.
+ So today, the phone made it from 7:00 AM to 5:53 PM without a charge and everything but Wi-Fi turned on.
 48 :
- (This works only with Skype Pro; the free Skype account can only make online Skype calls).
+ My advice... Buy a car charger!
 49 :
- No cellular phone connection is required with Skype Pro on Windows Phone.Take an international trip you will understand what I'm saying.
+ I discovered problems later in the day.
 50 :
- Being able to call home and work at international airports *without* a SIM card for the local service is a major convenience.
+ I couldn't sign into my voicemail from my cell phone.
 51 :
- Even if you already have got a local SIM card, using Skype Pro on Windows Phone to make calls on the 3G/4G data service is still a great convenience because it costs only two cents a minute, less than 1/20 of the cost for international calls made on a regular cell phone.
+ I called tech support.
 52 :
- It also works other way around.
+ Again, kudos to the Verizon guy for being so helpful.
 53 :
- You can make international calls from the US using Skype Pro on your Windows Phone for two cents a minute.Cheap international calls anywhere on your cell phone (and enjoying the integrated phone contacts) - I hope this concept registers with you.4.
+ He confirmed that this was a problem with the phone and that Samsung is working on a maintenance update.
 54 :
- CONTACT MANAGEMENTThe People Hub on the Windows Phone deserves a separate mentioning.
+ I also found out that the Samsung Media Hub only works in 4G (not sure I really care - I have no intentions of buying any music, etc from Samsung).
 55 :
- This is by and large the best contact management on a cell phone (WebOS users might have an issue with the statement).
+ One other odd problem I had was with the Music Player.
 56 :
- It automatically integrates all the contacts from different sources (e-mails, Skype and Facebook) and provides the best accessibility and connectivity on a mobile device.This significantly betters iOS, which has a pretty address book and good editing capabilities, but very little beyond that.
+ It keeps turning itself on periodically throughout the day.
 57 :
- When it comes to multi-source contacts integration, accessibility and connectivity, the People Hub on WP is much superior to iOS's contact management.For example, iOS address book has links to internal phone numbers and e-mail addresses, but basically that's it.
+ Samsung has a widget called Program Monitor that I REALLY like.
 58 :
- It does not have active links to external phone numbers (e.g.,contacts pulled from e-mail accounts), Skype contacts, and Facebook friends, etc..
+ It takes the place of an app killer app like you need on the Thunderbolt.
 59 :
- In the People Hub, all these have active links, meaning that they provide a single click connection.In addition, People Hub pulls contacts from Skype, which iOS does not do at all.
+ It automatically tells you if any programs are running in the background and gives you the ability to easily turn them off, either one at a time or all at once.
 60 :
- If you use Skype, especially Skype Pro, you'd suffer a disconnection on iOS.Both address books link contact addresses to maps, but the Apple maps is essentially dysfunctional in this respect.
+ Doing this extends battery life.
 61 :
- Apple hasn't really spent time to make sure this function actually works (they have been focused on making the thing look pretty).
+ While talking to tech support, I shared the Music Player thing.
 62 :
- It doesn't work most of the time.
+ He said he would include it with the info Verizon sends to Samsung.
 63 :
- Unless you have entered the contact address in a particular manner, clicking the address will result in a "not found" on the maps.
+ Getting back to my voicemail problem, I remembered all the app installing and uninstalling I did earlier in the day.
 64 :
- The People Hub works perfectly with maps.Under the hood,  this is actually a search algorithm issue, not a user interface issue.
+ The tech guy said it wouldn't hurt to restart the phone and try dialing voicemail again.
 65 :
- Like Google,  Microsoft knows search.
+ This fixed the problem.
 66 :
- It shows.5.
+ Lesson learned - after installing or uninstalling apps or software updates, restart the phone!
 67 :
- PRODUCTIVITYWindows Phone 8 wins this important area hands down, not because it is so good, but because others are so bad.
+ Spent the balance of the evening playing Angry Birds and messing with the phone.
 68 :
- The major thing is the Office App and OneNote App, and their integration with the excellent and generous (but underrated) SkyDrive.
+ These new phones really are pocket computers.
 69 :
- This allows Windows Phone to do the most essential things for productivity.
+ You notice this as you move from one app or function to the next.
 70 :
- WP8 further integrates Office 365 and SkyDrive perfectly.
+ This phone seems to handle everything you throw at it very smoothly and with very few hiccups.Day 4-Phone off the charger at 7:00 AM.
 71 :
- If you or your company subscribe to Office 365 and use the cloud versions of the OneNote, Office, Outlook, TeamSite and SharePoint, the productivity is boosted to a whole new level.
+ Everything seems to work fine.
 72 :
- The iPhone and Android simply cannot provide that kind of productivity.
+ The music player turned on 4 times during the day - don't know why or if it even matters.
 73 :
- Even if you don't use Office 365, getting the Windows Live and Skydrive would already be the best productive user experience because of the integration with the Web version of Office.I hear people say that they can use an Office-emulating app to do some work on the iPhone (or Android).
+ I turned it off using the Program Monitor widget.
 74 :
- But no.
+ There was not as much time spent on the phone today.
 75 :
- For serious work, it simply doesn't work.
+ I did take a couple of test shots with the camera.
 76 :
- You open a document (Word or PowerPoint, for example), do a slight editing, thinking that you have saved a bit time working on your smart phone, but only to later discover (or be told by an upset colleague) that you changed the subtle aspects of the formatting and styling of the document.
+ It seems to do a really good job for a cell phone camera.
 77 :
- That doesn't work for me, nor for anyone I work with.
+ Shut down at 9:00 PM with 50% power left on the battery.
 78 :
- Work environment cannot allow this.
+ Everything was turned on except Wi-Fi.Day 6-Saturday-Hardly used the phone today.
 79 :
- The fundamental difference is that the Office App on WP8 and Office Web version have complete compatibility with the traditional Office, while other apps don't.
+ Turned on at about 8:00AM.
 80 :
- They are built on different foundations.
+ At 9:24PM, I still have 74% battery life left with everything turned on except Wi-Fi.
 81 :
- Microsoft's mobile renditions of Office may lack many features of the full Office, but they are completely compatible with it, and that's extremely important.
+ Samsung has cured the 4G battery problem!!
 82 :
- When it comes to work documents, compatibility is more important than feature set.Overall, if documents and e-mails are just different ways of casual "instant messaging" to you, the iPhone is fine.
+ ***Update Wednesday 5/25***Day 10-This phone does have a few bugs beyond those already mentioned.
 83 :
- But if documents and e-mails are a work tool to you, Windows Phone is the way to go.6.
+ The phone stopped making phone calls last Sunday.
 84 :
- NAVIGATIONFirst of all, for those who miss Bing Maps, your Windows Phone still has it.
+ I got this loud screeching/static sort of sound right in the middle of a conversation.
 85 :
- It's only two taps away: tap the Bing search button (hardware button on the right side at the bottom), and then tap the "Local Scout" button (on the left side of the three on the search page).In addition to Bing Maps, Nokia offers a set of navigation apps including Nokia Maps, Nokia Drive, Transit, and City Lens.
+ I ended the call and tried to redial.
 86 :
- They together offer excellent navigation, better than Bing Maps alone, and also better than what iOS has to offer.Apple's first map is actually impressive with good features and of course great looks.
+ At that point, I could not make or receive calls without hearing that screeching sound.
 87 :
- But as Google has said, doing maps is hard.
+ I called Verizon for the third time since purchasing this phone.
 88 :
- It's years of exercise versus a morning makeup.
+ They were good to talk to, but had no suggestions other than to restart the phone.
 89 :
- Currently, Apple Maps does have a problem.
+ This DID fix the problem.
 90 :
- The reports of Apple's terrible map performance are related to map data inaccuracy and map search algorithms.
+ I have not had any more problems of any kind with the phone since last Sunday.
 91 :
- Those Apple fans who refute such reports by claiming that they haven't experienced any problems are missing the point.
+ My guess is this phone could use a maintenance software update from Samsung to improve stability.
 92 :
- Unlike other software in which a test is usually universal, your map test results only have to do with the location you tried, and only proves that the map is OK in that one location.
+ Verizon could still be having some 4G problems too.
 93 :
- When there is a problem at another location, there is a problem.
+ These bugs aren't that big a deal.
 94 :
- And Apple has a lot of such problems reported.
+ Every problem I've experienced has been fixed by turning the phone off and then on again.
 95 :
- The company acknowledges it.
+ It is something for you to be aware of though.
 96 :
- They're not fools.
+ I still like the phone!
 97 :
- I don't know how fast Apple can improve on that.
+ ***End of Update******Update Sunday 6/5***Day 21-This phone has two bugs that I am aware of.
 98 :
- Data and fundamental algorithms are far more than just doing some programming to add skins.
+ The first - The Mobile Hotspot feature has stopped working.
 99 :
- They might need to shell out a billion dollars to buy up.Compared to the excellent Google Maps, Nokia's navigation solution is mixed.
+ According to Verizon tech support, it's a Samsung problem.
 100 :
- It's worse in some ways, but better in other ways.
+ Verizon and/or Samsung are working on an update.
 101 :
- Google shines on map data, especially in the North America segment, no question about it.
+ Until that update is released, at least some of the Droid Charge phones won't have the ability to use the mobile hotspot feature.
 102 :
- Google's superiority in search is also reflected in its maps.
+ 4G and everything else seems to work just fine.
 103 :
- The app overall feels more mature and advanced, further boosted by is far greater user base (which they earned).But Nokia has several important things on its side.
+ The second - I'm having a very occasional problem using my Plantronics Voyager Pro+ headset with this phone.
 104 :
- The segmented downloadable maps for off-line GPS is a unique and significant advantage for Nokia.
+ It seems the first call made with my bluetooth headset after powering on the phone has a problem where I can hear, but the person I'm talking to can't hear me.
 105 :
- The reliable integration with contact addresses (People Hub) is another.
+ Verizon tech support wants me to go to a store and demonstrate the problem for one of the techs.
 106 :
- The multi-angle approach of Nokia's navigation app set suits user's particular need better.
+ I'll update this again after this has been completed.
 107 :
- Nokia also has comparable map data (although arguably slightly inferior North America segment) and mature map algorithms.Nokia's navigation solution comes with several separate apps.
+ It would be interesting to know if anyone else is having this bluetooth problem.
 108 :
- In comparison, Google puts everything under Google Maps.
+ Verizon suggested that the bluetooth problem could be something that would allow for a replacement phone.
 109 :
- I like Nokia's way of tasking.
+ The last item is minor.
 110 :
- The Nokia apps are meant to be connected (they need to work more on that).
+ The power button is finicky, but only when trying to turn the phone on.
 111 :
- You start with one app, but may transit to another when you need it.
+ I turn off the phone at night.
 112 :
- If done right, Nokia's approach could directly put the user at the best leveraging angle depending on the actual situation, using a specific app with the most suited user interface to maximize the user experience.
+ The next morning, it requires just the right (firm) touch to turn the phone back on.
 113 :
- Some people complain about it either because of their unfamiliarity with this design or their dissatisfaction with the current execution.
+ All other functions supported by this button work fine.
 114 :
- I hope Nokia doesn't change this good concept, but just keeps on perfecting the apps and improving the integration under this framework.An often overlooked but significant feature Nokia offers is downloadable maps segmented according to regions.
+ These are the first real problems I've had with this phone.
 115 :
- Once downloaded to your phone's local storage, the maps are fully functional off-line even when you don't have any cellular network or WiFi access.
+ While there is no excuse for the problems, this phone has far fewer bugs than phones like the Thunderbolt.
 116 :
- That could be a matter of getting or not getting to the destination.
+ I dropped my rating from 5 to 4 stars until they fix the problem.
 117 :
- If you don't think this is important, I don't know what is.
+ I'm still happy with "the rest" of this phone and have my fingers crossed for a quick fix/update to the hotspot feature.
 118 :
- Even when cellular network is present, the off-line GPS map means big savings on your data usage.With the downloaded maps, the navigation on Lumia 920 may replace standalone GPS units.
+ ***End of Update******Update Saturday 6/11***Day 27-I just installed the maintenance update Verizon/Samsung prommissed us.
 119 :
- It has vastly better user interface to start with.
+ It fixed a number of things - mobile hotspot works now, 4G reception is improved (I consistently have one extra bar of reception sitting here in my living room), battery life improved, the screeching noise I previously mention fixed, mild performance increase and a number of other improvements.
 120 :
- Address search, which is probably the most frustrating thing on standalone GPS units, is far better on Nokia Drive.
+ There still seems to be an occasional issue with my bluetooth headset.
 121 :
- The overall user experience is superior despite its lack of a few features.
+ This could be the phone or the headset.
 122 :
- But if you need a dedicated GPS unit constantly mounted in the car, that's a different story.If you happen to be at a place without a car (Americans, have you traveled to other places in the world?
+ I just can't say right now.
 123 :
- People don't always drive), try Nokia Transit, which provides detailed guide for public transportation of cities around the world.Nokia takes navigation seriously.
+ I'll update this review when I have more info.
 124 :
- They have had an excellent maps tradition and accumulated expertise with Symbian-based cell phones.
+ ***End of Update******Final Update 6/16***Day 32-The last update seemed to take a day or so and a few restarts before it really took effect.
 125 :
- Considering that they jumped on the WP ship only recently, I'm confident that they will make this whole thing even better in a quite fast pace.7.
+ It appears my bluetooth headset problem is the headset's fault.
 126 :
- THE SCREENBoth Lumia 920 and iPhone 5 have gorgeous screens, but the Lumia is still better.
+ Plantronics replaced it for me under warranty.
 127 :
- The viewability under direct sunlight is noticeably better on Lumia 920.
+ The predictive text seems to work better with the new update.
 128 :
- Both are extremely clear for text and webpage rendering, but Lumia 920 works much better in the portrait mode because of its greater viewing dimension.And Lumia 920 has touchscreen capability when you wear gloves.
+ Previously, it made you work a little too hard to choose the right word.
 129 :
- This may come handy in very cold winter outdoors.
+ The handoff between 4G, 3G & 1x works pretty well most of the time.
 130 :
- But for me, the usefulness is more than during the winter.
+ Occasionally it will struggle with the switch back & forth.
 131 :
- To protect my hands from suffering  painful skin and split fingernails, I often need to wear a glove on my right hand while I'm doing air traveling.
+ ***End of Update******This is the "I hope this is my final update" update 7/1***Day 47-Some final details to help you with the phone and get started with the android operating system.
 132 :
- Lumia 920 is the only phone that I can use wearing a glove.
+ I've played with a number of apps and decided to keep the included email, sms and contacts.
 133 :
- It is not a gimmick at all.8.
+ They do everything I need them to do and seem to use fewer resources than some others I tried.
 134 :
- THE CAMERALumia 920 has the best cell phone camera on the market, leading by a significant margin, except for Nokia's own PureView 808 which is a different type of device.
+ Some business users may want to consider a replacement email program.
 135 :
- I say this very objectively.
+ I did not feel the need.
 136 :
- Those who don't see the difference either didn't test it under right conditions, or simply can't tell the differences in photo quality.
+ I installed the Dolphin HD Browser for surfing the web.
 137 :
- Lumia 920 is the only smartphone camera that can take decent concert (or party) photos and videos.
+ It seems faster than the stock browser.
 138 :
- Its lowlight performance is at least two ISO stops (that's 4 times) better than the iPhone 5.
+ I downloaded a ringtone app from the android market that allowed me to assign a silent ringtone to a contact, thus solving my earlier complaint from Day 1 above.
 139 :
- This is primarily due to Nokia's unique pixel binning technology further combined with image stabilization.
+ I did install a new home screen launcher - Go Launcher.
 140 :
- Neither Nokia nor Apple makes the camera sensors (Sony does), but the photo quality is not only about the sensor itself.
+ It allows for more customization and speeds up the phone just a bit.
 141 :
- Nokia has a tremendous technological and patent advantage in this area.By the way, stop comparing which camera has more megapixels.
+ Instructions are online.
 142 :
- High MP is a trick used by camera makers to tax on consumer ignorance, and in most cases has very little correlation to picture quality.
+ If you install Go Launcher, you loose the included Program Monitor Widget, but get to keep the Task Manager app which does everything the widget did.
 143 :
- On cell phones in particular, there are several reasons why it's meaningless to pursue higher MP count.
+ Look for it in the app drawer.
 144 :
- First, no tiny lens on a cell phone is capable of optically resolving pixel numbers beyond 5MP.
+ In addition to my Gmail email, I also switched from a POP3 work email account to an IMAP (push email) account through the included email app.
 145 :
- I challenge you to find a scientific test to prove otherwise.
+ The weather clock I settled on is Beautiful Widgets.
 146 :
- Second, because of the very small sensor sizes, low light performance is a far bigger problem than the number of pixels.
+ It's MUCH better than the included version.
 147 :
- Third, you don't need more than 2MP on a cell phone.
+ I've installed a number of other apps that were for personal use.
 148 :
- Generally, photos taken by smart phones are only used for screen viewing instead of making large prints.
+ These mentioned affect how well the phone functions.
 149 :
- Even 2MP would be plenty.
+ I feel like I'm done with my customizations and really like how the phone turned out.
 150 :
- For web posting, a high-quality 1MP photo would look far better than a lousy 10MP photo.I'm not saying that a smaller pixel number is a good thing in itself.
+ And yes... 4G is really worth it!!
 151 :
- On the contrary, I'm just saying that for a given sensor technology, pixel density is the best sacrifice to make if the goal is to take better pictures with a cell phone camera sensor.
+ ***End of Update******Update 7/29 One Final Bug Remains***The bluetooth bug is a Samsung problem.
 152 :
- Most consumers don't realize that for any given sensor technology, an increase of pixel density comes at the expense of lowlight performance and dynamic range.
+ I've been through two Plantronics Voyager Pro + Headsets and three Droid Charge phones.
 153 :
- (Many people intuitively reject this notion, reasoning that it does not make sense that lowlight performance and dynamic range would be affected by pixel density as you can always downsample.
+ They all exhibit the same behavior.
 154 :
- But to understand this, you must stop treating pixels as abstract geometrical concepts but actual engineered photosites with optically dead physical boundaries.
+ There is an occasional problem where callers can't hear you, but you can hear them.
 155 :
- That is a different topic though.
+ This problem continues until the phone disconnects itself from the headset.
 156 :
- )Every time when the sensor chip technology is improved, they usually have two options: (1) increase the lowlight performance and dynamic range by keeping the same pixel density, or (2) increase the pixel density (to get a greater MP count for a given sensor size) by holding back the real performance.
+ To get the phone & headset connected again, you have to delete the headset profile from the phone and go through the process to pair them again.
 157 :
- Unfortunately they usually choose the latter because the MP count is a much more marketable gimmick.So instead of honest value, we now have the madness of smartphones reaching and going beyond 10MP with little meaningful result but unnecessarily bad lowlight performance, poor dynamic range, and a big waste of storage, data usage and processing time.
+ I've also been told that Jawbone and Motorola headsets exhibit this same behavior.
 158 :
- Had they focused on real performances on 2-4MP sensors with a generous sensor size permissible on smartphones, we would have now had much more useful cameras on these gadgets.In this regard, Nokia is doing great in spite of (not because of) joining the megapixel race, again thanks to its pixel binning technology and image stabilization.9.
+ Through trial and error, I've figured out a workaround that works most (but not quite all) of the time.
 159 :
- BUILD QUALITYNokia 920 is a marvelous piece of engineering and manufacturing.
+ If you pair your bluetooth device while the phone is awake (screen turned on), you'll eliminate most of the bluetooth problems.
 160 :
- Both Nokia 920 and iPhone 5 have a premium appearance, only very different flavors.
+ Pairing takes a good 12 to 15 seconds.
 161 :
- But the Nokia is without question tougher.
+ This is important because after about 5 seconds, my headset says, "phone one connected".
 162 :
- I say this not because Nokia is heavier.
+ Well, it's not fully connected yet.
 163 :
- They use different materials.
+ In my case, there is a final beep after about 12 to 15 seconds indicating the bluetooth device is properly paired to your phone.
 164 :
- In choosing materials, these two companies have very different philosophies.
+ If you don't keep your phone awake while pairing or accidently walk out of range of your phone while wearing your bluetooth device, the problem will return unless you power off your bluetooth device and re-pair while the phone is awake.
 165 :
- Apple always goes after materials that enable extremely slim and light products, while Nokia has always been concerned of durability.If you are already conditioned to update your phone every year, you are an ideal Apple-kind person already.
+ According to Verizon, there is another software update (likely the upgrade to the Gingerbread 2.3.4 operating system) coming at the end of the summer.
 166 :
- But still, hold your iPhone dearly and don't drop it.
+ They could not say if this bluetooth bug will be addressed in that update.
 167 :
- I have an iPad 3 that was accidentally dropped from a sofa sidetable to a hard floor head-down.
+ ***Verizon has now said they ARE looking into bluetooth compatibility issues.
 168 :
- I was completely shocked by the amount of damage it caused.
+ So hopefully, another update will be coming soon.
 169 :
- I was expecting a dent on the edge or at worst a crack on the screen, but the whole thing was smashed like glass.
+ *** According to Samsung tech support, they ONLY claim that this phone will work properly with Samsung headsets.
 170 :
- That's when I discovered that the iPod 3 uses a glasslike material even for the frame, which looks great, but, just don't drop it.So you might actually need a case for your iPhone.
+ This seems to be a problem with Verizon's other 4G phones as well.
 171 :
- Lumia 920 does not need one.
+ So, I can't offer anything other than to say this is something to be aware of.
 172 :
- In fact, I can't imagine a case for Lumia 920 without ruining its gorgeous appearance.10.
+ It may be related to the how the phone tries to save battery life while in sleep mode (screen shut off).
 173 :
- THE DESIGNThis is completely subjective.
+ The bluetooth bug is my only reason for 4 stars instead of 5.
 174 :
- But I personally feel iPhone 5 is too youthful and delicate, and better in a hand of a teenager, while the Samsung Galaxy S3 too rounded and has no character.
+ One final disclosure I feel I should make...
 175 :
- I love the overall masculine (but gentle and absolutely not rough) and squarely straight style of Lumia 920.
+ Since I finished setting up the phone and installing all the apps, I have noticed that battery life has dropped off a little.
 176 :
- Go to YouTube to hear Marko Ahtisaari of Nokia articulating the design philosophy.11.
+ On heavy use days, the phone hits the charger on my 5:00 ride home.
 177 :
- THERMAL BEHAVIOR AND BATTERY LIFEThe Nokia 920 does not run hot, thankfully.
+ On normal use days, I usually get the 15% low battery warning around 10:00 PM.
 178 :
- This is one thing I was particularly worried after the bad experience with the Dell Venue Pro which had disgusting thermal performance and power management.Battery life is good, although not excellent, comparable to other top performers such as iPhone 5.
+ On those low to no use days, I typically shut down with anywhere from 40 to 65% battery life left.
 179 :
- If there would be an improvement that could persuade me to change my phone again, it would be a new phone that could last at least a couple of busy days without recharging.
+ It is also important when discussing battery life that you know my screen was set to auto brightness.
 180 :
- I am not a heavy mobile user, but I'm out on a trip quite often.
+ ***End of Update******Update 10/10/11***The bluetooth bug has finally broken my phone.
 181 :
- The battery life of my cell phone is among the biggest mental burdens while traveling.
+ Everything works great except my phone will no longer hold a pairing with my bluetooth headset beyond turning it off at night.
 182 :
- Unfortunately, it looks like battery life is not what these companies are focusing on at this time.12.
+ Verizon is willing to replace my phone for free with a new Charge or any of their other 4G phones.
 183 :
- APPSiPhone wins by a large margin in terms of app number.
+ There is a big update coming in perhaps the next month that will likely fix my Charge.
 184 :
- Although a vast majority of apps are junk on both systems, there are some great apps on both; iOS just has more due to its sheer larger base.
+ Given that I'm a real estate agent that spends a lot of time on bluetooth, I've decided to try the Motorola Bionic instead of a replacement Charge.
 185 :
- So it seems that most people will need to sacrifice a few apps by choosing Windows Phone platform for now.
+ I really do like the Charge.
 186 :
- I'm missing quite a few useful apps on the Windows Phone, and make up the deficiency by using the iPad.
+ Verizon tech support has been very nice and very helpful.
 187 :
- Windows Phone also has some very good apps that are missing on iOS (in addition to Nokia apps and Microsoft apps), although not as critical.The most important app I miss on the Windows Phone is a decent PDF reader.
+ The price of the Charge has been greatly reduced making it a better deal.
 188 :
- Microsoft rushed out its own PDF reader, which works for basic reading but has some serious limitations.
+ If you can live without bluetooth until the update comes out, I still like the Charge.
 189 :
- I hope Adobe or a third-party releases a better PDF reader on WP8 soon.
+ If bluetooth is important to you, I recommend you look elsewhere for at least the next few weeks.Moving forward... My recommendation is to wait 30 days before buying a new phone.
 190 :
- This is a big pain point.However, none of these missing apps has the kind of importance comparable to that of navigation and productivity.
+ The updates for the existing phones should be out by then.
 191 :
- To me, the choice is clear.
+ You can check Verizon's community forums for information about the updates.
 192 :
- I think it's misleading to do "bean counting" the small things of each system.
+ There are also rumors of three new 4G superphones hitting Verizon between 10/18 and say 11/10 - Motorola RAZR, Samsung Nexus and an HTC.
 193 :
- You've got to have priority.
+ This will do two things.
 194 :
- If you need one function that has a dominating priority, then one million less useful "apps" would no longer matter.Despite the relative minor changes in appearance from WP7 to WP8, Windows Phone 8 has got a much better foundation in the program architecture than WP7.
+ First, it will reduce the price of the existing line of 4G phones.
 195 :
- With the Windows NT kernel and 90% source code compatibility with Windows RT, the app future looks good.13.
+ Second, it will give you more phones to choose from.
 196 :
- FLUENCY AND EFFICIENCY OF THE OPERATING SYSTEMWindows Phone 8 on Lumia 920 beats iOS on iPhone 5 in terms of fluency and efficiency.
+ Either way, I truly believe Verizon 4G is the way to go.If you want some initial thoughts on the Bionic, see comment number 42 in the comments section below.
 197 :
- WP has a hardware "Back" button in addition to the Home button, while iPhone has just a Home button.
+ ***End of Update******Update 12/2/11***The operating system and bug fix update is being pushed out by Verizon today.
 198 :
- This has a significant impact on the flow of operation.
+ It could take a week or so before everyone gets the update.
 199 :
- I know this is rather subjective, but one thing that particularly bothers me on the iOS is that it requires you to always go back to the home button.
+ My guess is this update will fix the bugs and provide some new features.
 200 :
- You can't directly go back to another place you have just visited.
+ If you are thinking about buying this phone, It could be a good lower cost 4G phone.
 201 :
- You always have to go back home and start from there again.
+ I would check the Verizon Communtiy Forum and/or other Droid Charge Forums to see what others think about the update.
 202 :
- I remember Steve Jobs proudly making a big point out of it.
+ I own the Motorola Bionic now and am waiting for my own update from Motorola/VZW.
 203 :
- Theoretically, going back home and then to the last app takes only two steps, but problem is that when you have multiple pages of apps, it causes a bit of hesitation to locate an app.Both iOS's "double-clicking Home" and WP's "long-pressing back button" give you a nice quick list of the opened apps to simplify the selection of apps, but still the additional "Back" button functionality WP is very much appreciated.Another thing that impacts the efficiency is the management of installed apps.
+ I put so much effort into this review, I just wanted to close the loop.
 204 :
- The iOS manages installed apps in a simplistic way with much emphasis on the appearance not the functionality.
+ Good luck!
 205 :
- Windows Phone has a much more sophisticated way.
+ ***End of Update***Final negatives-The Price!
 206 :
- The installed apps are directly and separately searchable, and are also automatically organized under alphabetical categories that can be quickly accessed through a single page grid (which itself is accessible by a single swipe).
+ I paid $270.00 for this phone after a $30 discount from Verizon.
 207 :
- If you have less than 20 installed apps, you will see no difference.
+ It should be cheaper!
 208 :
- If you have about 20-50, the difference would start to show.
+ I plan to update the included Weatherbug Widget.
 209 :
- With 50-100, it becomes apparent, and beyond 100, the difference would be huge.
+ According to the Weatherbug site, the widget gives what has happened during the day, but not what WILL happen.
 210 :
- The more apps you install, the greater the difference would be.
+ For example: The included Samsung Weatherbug widget says today is 61 now, and 58 was the coldest so far today, a partly cloudy animation(neat looking) and the time.
 211 :
- So power users will find this an advantage on Windows Phone.When you come to think of it, the above may be the reasons why the iOS is so intuitive for beginners, but less efficient for more experienced users.
+ What's missing is the predicted high temp for the day.
 212 :
- On user interfaces, these two things often conflict.
+ Kinda silly leaving out THAT piece of info, especially if you check the weather at 7:00 AM.
 213 :
- I can see why many like the flow design of iOS, but I prefer WP8's flow much better.14.
+ The included clock widget leaves something to be desired as well.
 214 :
- CUSTOMIZATIONIt almost sounds silly that one of the biggest improvements WP8 has over WP7 is adding some smaller sized tiles.
+ I'll go back to the app store to find replacements I like.
 215 :
- Hardly innovative, but it makes a big difference, largely speaking against the old design.
+ When I read people's complaints about the Samsung UI, I think they are referring to things like these widgets that just don't function like they should.
 216 :
- I don't like those big tiles.
+ It's easy enough to fix with a trip to the app store.
 217 :
- I simply don't think any app deserves that much attention, especially in such a uniquely precious small room.
+ The question for Verizon/Samsung is... With as much money as we have to pay for this phone, why do we have to fix such simple little things?
 218 :
- I customized my start page to have all tiles in quarter size except for the phone button.
+ Note to Samsung: You have a great phone.
 219 :
- Thank you, Microsoft, for allowing such basic freedom.
+ Please fix these annoyances.The bottom line-This phone is incredible and so is 4G!
 220 :
- My start space is now much more efficiently used and no longer a victim of the almost tyrant "less is more" so-called clean design philosophy.The level of customization further down is mostly on par with the iOS.
+ I got 12.2 mb download and 4.6 mb upload speeds with the speedtest.net app from the Android Market!!
 221 :
- Android would still have an edge over both, but I think this is got to a very reasonable level already.But I do have one big complaint against Windows Phone:  With WP8, you still can't turn off that stupid screen auto-rotation.
+ There are a few quirks in the way the phone operates.
 222 :
- You simply can't so far.
+ This phone and Verizon's 4G network are still very new technologies.
 223 :
- No user settings has that.
+ With these few exceptions, Samsung has done a great job creating a phone that is smooth to operate, surfs the internet incredibly fast, seems to be relatively bug free and has really good battery life - at least for a droid.
 224 :
- No app that does that.
+ I can also say that the reception of the Samsung Droid Charge is better than that of my old Blackberry.
 225 :
- Even unlocked phone can't do that.
+ I had little or no problems with reception and/or call quality.
 226 :
- Forgive me to call auto-rotation feature stupid.
+ The speakerphone works well too.
 227 :
- But it is one of those tech-things that make no sense on a mobile phone, precisely because a mobile phone is just so, mobile.
+ If you compare this to Verizon's other 4G phones, this IS your best option!
 228 :
- The problem is that these device designers fail to understand that the proper (or desired) orientation of the screen simply cannot be determined by an orientation sensor.
+ I can find NO reason why you should not purchase this phone.
 229 :
- The sensor determines the orientation using gravity and the earth as the reference, not your body.
+ I know there will be the few that feel they have to wait for the dual core processor in the Motorola Bionic when it gets released in another few months.
 230 :
- As a result, the sensor can only detect the phone's orientation itself, not its relative orientation to the user's body posture, which is what actually matters.
+ For most people, this phone will have ample power and all the features you could want.
 231 :
- So it works properly only when you are standing straight, not when you are inclined or lie down.
+ I will even go so far as to say this phone is better than the iPhone.
 232 :
- In fact, it always turns to the wrong orientation when you are inclined or lie down, so you have to fight it.In practice, the non-switchable autorotation causes much more annoyance than any utility.
+ I say this in part because the speed of this phone (4G) simply blows the iPhone away!Practical suggestions:  Buy a car charger or spare travel charger.
 233 :
- It is OK if they just use it as a gimmick to attract feature counters, but it is not OK to have it permanently implemented and cannot be turned off.
+ You won't need it every day.
 234 :
- It's simply stupid.I think the best solution is iPad 3's combination of autorotation plus a hardware-based button for a mechanical lock.
+ You will need it sometimes though.
 235 :
- It combines the best of both worlds.
+ I'm not sure I see the need for an extended battery - unless you are a really heavy user.
 236 :
- The iPhone has autorotation plus user manual options in the settings and apps, which is not as good as the iPad, but still much better than Windows Phone's autorotation only, whenever and wherever.The reason why I make this auto-rotation issue such a big deal is just to make a point, not because the thing itself is so life-threatening.
+ I never tried turning 4G off.
 237 :
- I can live with the annoyance.
+ Turning this feature off should extend the battery life beyond those I've reported.
 238 :
- But the failure or overlook of such issues after all these years is very telling of Microsoft.15.
+ Perhaps I'll give it a try during my next camping trip where I won't have an option to recharge the phone.
 239 :
- REFINEMENT OF THE OPERATING SYSTEMWhen it comes to very fine details, Apple wins.
+ If you like belt clips, the Verizon store has the best I've seen.
 240 :
- WP8 has improved over WP7, but still no match to the iOS in its refinement of details.
+ (Amazon sells it now for half the price:Samsung Droid Charge Shell/Holster Combo W/ Kickstand) I really like the one I bought.
 241 :
- Company wise, and culture wise, Microsoft has not fully learned this art yet.
+ Remember to restart the phone after adding or removing apps or updates.
 242 :
- Let me name a few:(1) The input mode is still a mess despite an excellent keyboard.
+ It does make a difference and will keep your phone running smoothly.
 243 :
- Although typing new text is easy, accurately placing the cursor to edit text is virtually impossible.
+ I did find replacement apps/widgets that I really like in the Android Market to replace those that were included with the phone that I didn't like.
 244 :
- Also, you can't quickly do a "select all" to copy and paste a text.
+ Install the included Samsung Program Monitor widget.
 245 :
- It requires a painful maneuver to do so, many times more difficult than doing the same on iOS which gives you a selection in an automatically pop-up menu.
+ It works, is simple to use and could help extend your battery life.I rely a lot on reviews here on Amazon when I make purchasing decisions.
 246 :
- Oh please, they struggled with this copy and paste thing from the very beginning and received a disproportionately great amount of criticisms, so you would think that they would have jumped all over it to not only improve it, but in fact over-improve it.
+ I hope this review helps you with your decisions.
 247 :
- Not at all.
+ I'm very happy I bought this phone and would buy it again.
 248 :
- It's still a half cooked solution.
+ Highly recommended!
 249 :
- (2) The network status indicators on the top of the screen don't stay.
-250 :
- They disappear transiently.
-251 :
- You have to touch the screen in a particular manner to bring them back.
-252 :
- You can't change that in the settings.
-253 :
- This is useless frivolous design.
-254 :
- The indicators don't occupy extra space at all when they are displayed, and their disappearance does not result in any benefit.
-255 :
- It just makes the system fussy and less certain.
-256 :
- My basic assertion is that cell phone's network status is a constant user concern, and being able to glance at these essential indicators any time gives you peace of mind, and is a good part of the harmonious "handset environment".
-257 :
- Having to always struggle for such a simple thing is nonsense especially when the sacrifice is made for no purpose.I think what happened at Microsoft was like this: One day, someone from Microsoft management shouted in a meeting: "Less is more!
-258 :
- Less is more!
-259 :
- Look at Apple, we need to learn from them!"
-260 :
- And shortly after that, a Microsoft engineer came up with this idea of hiding the network status indicators...Microsoft has done the hard part of building a very promising mobile OS, it shouldn't be so difficult for them to do these very basic and simple things right.
-261 :
- It is obviously not an engineering issue.
-262 :
- It is a product management issue.
+ !
 #####
 #####
 Sentence 5:
-
+After a week only one side works
 
 Segmented:
+1 :
+ After a week only one side works
 #####
 False
-
-##### WORDS #####
-Top 20 words:
-('phone', 174345), ('case', 144658), ("n't", 116213), ("'s", 97796), ('one', 85413), ('like', 71795), ('great', 65970), ('use', 60771), ('screen', 59487), ('would', 58738), ('good', 57855), ('battery', 57135), ('well', 49465), ('iphone', 47732), ('get', 46324), ('charge', 44390), ('charger', 38170), ('really', 37971), ('product', 37683), ('also', 36167), 
-##### ##### #####
-
-##### STEMS #####
-Top 20 stems:
-('phone', 189569), ('case', 163287), ('use', 116698), ("n't", 116213), ("'s", 97796), ('charg', 91196), ('one', 90936), ('like', 79630), ('veri', 77170), ('work', 75522), ('great', 66373), ('batteri', 65088), ('get', 61106), ('screen', 61073), ('would', 58738), ('good', 58096), ('doe', 53039), ('look', 51814), ('fit', 49922), ('iphon', 49904), 
-##### ##### #####
-
-##### STOPWORDS #####
-['i', 'me', 'my', 'myself', 'we', 'our', 'ours', 'ourselves', 'you', "you're", "you've", "you'll", "you'd", 'your', 'yours', 'yourself', 'yourselves', 'he', 'him', 'his', 'himself', 'she', "she's", 'her', 'hers', 'herself', 'it', "it's", 'its', 'itself', 'they', 'them', 'their', 'theirs', 'themselves', 'what', 'which', 'who', 'whom', 'this', 'that', "that'll", 'these', 'those', 'am', 'is', 'are', 'was', 'were', 'be', 'been', 'being', 'have', 'has', 'had', 'having', 'do', 'does', 'did', 'doing', 'a', 'an', 'the', 'and', 'but', 'if', 'or', 'because', 'as', 'until', 'while', 'of', 'at', 'by', 'for', 'with', 'about', 'against', 'between', 'into', 'through', 'during', 'before', 'after', 'above', 'below', 'to', 'from', 'up', 'down', 'in', 'out', 'on', 'off', 'over', 'under', 'again', 'further', 'then', 'once', 'here', 'there', 'when', 'where', 'why', 'how', 'all', 'any', 'both', 'each', 'few', 'more', 'most', 'other', 'some', 'such', 'no', 'nor', 'not', 'only', 'own', 'same', 'so', 'than', 'too', 'very', 's', 't', 'can', 'will', 'just', 'don', "don't", 'should', "should've", 'now', 'd', 'll', 'm', 'o', 're', 've', 'y', 'ain', 'aren', "aren't", 'couldn', "couldn't", 'didn', "didn't", 'doesn', "doesn't", 'hadn', "hadn't", 'hasn', "hasn't", 'haven', "haven't", 'isn', "isn't", 'ma', 'mightn', "mightn't", 'mustn', "mustn't", 'needn', "needn't", 'shan', "shan't", 'shouldn', "shouldn't", 'wasn', "wasn't", 'weren', "weren't", 'won', "won't", 'wouldn', "wouldn't", '!', '"', '#', '$', '%', '&', "'", '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', '\\', ']', '^', '_', '`', '{', '|', '}', '~']
->>> 
