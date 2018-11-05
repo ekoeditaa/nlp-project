@@ -1,5 +1,7 @@
 Readme.txt
 
+The repository for our project can be found on https://github.com/ekoeditaa/nlp-project
+
 Getting Started
 1. Download the required dataset here (http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Cell_Phones_and_Accessories_5.json.gz).
 2. For each script, ensure the correct path to the data.
